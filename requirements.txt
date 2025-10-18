@@ -1,0 +1,11 @@
+opencv-python
+pillow
+imagehash
+exifread
+#dlib
+insightface
+qdrant-client
+chromadb
+streamlit
+gradio
+crewai
