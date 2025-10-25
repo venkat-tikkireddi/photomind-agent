@@ -49,4 +49,5 @@ Goal: Connect your local database with intelligent agents capable of reasoning (
 
 agents/agent_orchestration.py: Use CrewAI to define agent roles, workflows, and interactions.
 #### Step 5: Agent Orchestration, where you’ll connect Ollama with CrewAI to create intelligent agents that analyze your database
+Agent MVP Completed.
 
