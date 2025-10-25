@@ -2,7 +2,7 @@ opencv-python
 pillow
 imagehash
 exifread
-#dlib
+dlib
 insightface
 qdrant-client
 chromadb
