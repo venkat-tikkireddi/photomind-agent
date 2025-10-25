@@ -1,0 +1,2984 @@
+[
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\2016-10-12-07-59-07.jpg",
+    "phash": "b8f8cbc70667b019",
+    "sha256": "f458f5a978ce51242f40913417503608ba5ddf9d392b25f3f68337fe96a16fcd",
+    "timestamp": "2016:10:11 13:30:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\2016-10-12-08-01-56.jpg",
+    "phash": "ecc511969e1aca73",
+    "sha256": "985e2308ffde4b436f990df21457e8e9751a592379d0eb66eea9889a749e3976",
+    "timestamp": "2016:10:11 13:32:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\2016-10-12-08-03-27.jpg",
+    "phash": "a1b35a8d4cecd692",
+    "sha256": "604fe125c900fd042c7df5b287b54d271e9a1cac3fdcea64ee508763f1a43bde",
+    "timestamp": "2016:10:11 13:31:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\2016-10-12-08-03-58.jpg",
+    "phash": "ae85f09b13daf805",
+    "sha256": "e349cf2328c3befb2131f8657eec49c1a790efc0ec017987479d366f03636eae",
+    "timestamp": "2016:10:11 13:31:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\2016-10-31-07-31-18.jpg",
+    "phash": "c13aecc39de0eb24",
+    "sha256": "bd90279f02dfa3df189cff70abaac0f8faa8118ee06c450c66770ea900e0feaf",
+    "timestamp": "2016:10:30 20:22:01"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\FB_IMG_1447492690280.jpg",
+    "phash": "d32dbc1ee7669006",
+    "sha256": "5519036cc7cee4c720e465b3dbf18884d7d754a70c358e2f96750f99bc0903b5",
+    "timestamp": ""
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150807_190525.jpg",
+    "phash": "bf85c158d6698875",
+    "sha256": "69f14a57c2d6c7e63a8b6449489008fd68e5d74c84aa30a54a39f06e67457a82",
+    "timestamp": "2015:08:07 19:05:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150807_190529.jpg",
+    "phash": "be87c158d469a965",
+    "sha256": "a45481fc864c45da4ef91cd007991d5c6d37b44256bb54566d0a3a3825bf844b",
+    "timestamp": "2015:08:07 19:05:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150808_074139.jpg",
+    "phash": "e21de3ae1c73ac0c",
+    "sha256": "2c620fcec1de670b960e80ee499dceca62e7f95d552d1677ac690d733386018a",
+    "timestamp": "2015:08:08 07:41:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150808_074147.jpg",
+    "phash": "e21deba7187ba406",
+    "sha256": "9c1c3a11838acd8cb36c681fff2f5f328003b2558607635ab0b799ae5038af34",
+    "timestamp": "2015:08:08 07:41:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150808_074208.jpg",
+    "phash": "e21d7aeb841b9266",
+    "sha256": "3fc72d6e706769c65dab8518208584e183e0214954ea9f44fa9e8a0eaa88f9e6",
+    "timestamp": "2015:08:08 07:42:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_142935.jpg",
+    "phash": "d1d0a285327f7cc9",
+    "sha256": "1bdc7f61e28e5c0392ae9363fe2609d0024469ac898042697d919243e2ec2a33",
+    "timestamp": "2015:08:09 14:29:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_142939.jpg",
+    "phash": "d1d0a295326f7cd1",
+    "sha256": "b8bda4fdbb40c1ceb8b2afecabc1776111479ac983c531651e6a9b103b9734e1",
+    "timestamp": "2015:08:09 14:29:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_143717.jpg",
+    "phash": "9338776e68640d6e",
+    "sha256": "9e62c2766a272937c362a7b4abb6e134fec4d2cb6c21bd78091e7f578567f971",
+    "timestamp": "2015:08:09 14:37:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_143723.jpg",
+    "phash": "9b397a67643822b6",
+    "sha256": "84a514f063065ae19ea64ac956294dcf01264c5f0793291c63adb1f62f8fa0ab",
+    "timestamp": "2015:08:09 14:37:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_143752.jpg",
+    "phash": "d83067e62f96b642",
+    "sha256": "f77cd7b9cc8f335c3531343fee748dd3aefb520f2a773868c97e9114621b6040",
+    "timestamp": "2015:08:09 14:37:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_144035.jpg",
+    "phash": "e98be90e7648166d",
+    "sha256": "5e3e58b1fe1f824261e40d5090e77d8b1577351dcc2e7c8749c688993261deff",
+    "timestamp": "2015:08:09 14:40:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_144040.jpg",
+    "phash": "ca9aeb1c77117449",
+    "sha256": "797ef9c06d1c6f25799ea6573b5d4bd174933f5c756b703e326164937499fa5e",
+    "timestamp": "2015:08:09 14:40:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_144049.jpg",
+    "phash": "ea8be88f760b3449",
+    "sha256": "925e18b71ff77dfc1a145e2618e959392a1db93b7769bd2312877f5da7de4c40",
+    "timestamp": "2015:08:09 14:40:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145142.jpg",
+    "phash": "d7bf829050635667",
+    "sha256": "65008c1451f5d83486cfdfb6c1755dc494d44353bc5e2dfa4ece01477ff82eec",
+    "timestamp": "2015:08:09 14:51:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145144.jpg",
+    "phash": "d73f8ab540615663",
+    "sha256": "ae3abc82cf6cecdd7b371abef811c17d66acf60eae67c046261cbd2a2d58462a",
+    "timestamp": "2015:08:09 14:51:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145148.jpg",
+    "phash": "d73a827442675673",
+    "sha256": "b085ea5b43c0492b75a241f293733e72b41ea876ee8f3ec3fbc9facd2f2ca1f4",
+    "timestamp": "2015:08:09 14:51:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145149.jpg",
+    "phash": "d73a807a4267566b",
+    "sha256": "392b4d3a422e8ab9135696b328a472c1e78edd84bcb076dd9d6a742e6012bcb9",
+    "timestamp": "2015:08:09 14:51:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145213.jpg",
+    "phash": "ddbe89096d7b2058",
+    "sha256": "ecbdaf8b733eae5b1793042c0d455a7834579a2dcde4448f5c7b06a5a344ab41",
+    "timestamp": "2015:08:09 14:52:13"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145224.jpg",
+    "phash": "fab9858e5f266203",
+    "sha256": "5a85574f40ad142d7e409584b2de242c1abaea3d994f72eb01441a7a7122123e",
+    "timestamp": "2015:08:09 14:52:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145943.jpg",
+    "phash": "ae4d5b308768c7c9",
+    "sha256": "ae8ea9c83cab286b6b023592a310157b1ed55b525ea3058a5b97c417b397ad25",
+    "timestamp": "2015:08:09 14:59:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145947.jpg",
+    "phash": "ae4f13709474c6e9",
+    "sha256": "422cb96840500a04872be644766212c80a83abb0d6c31ff92c4656cae258538b",
+    "timestamp": "2015:08:09 14:59:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145949.jpg",
+    "phash": "ac5893579de0ccb1",
+    "sha256": "cf003279b8c5c6e3b813783b762ed3a538e76bc12b89443c4d7af692cc78484b",
+    "timestamp": "2015:08:09 14:59:48"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145952.jpg",
+    "phash": "a65c13519c39ecb9",
+    "sha256": "bcfab7b4376c38ce91c3bab8df1d53dd3ade94477cb52ae2691e5ce8ed5b5fe2",
+    "timestamp": "2015:08:09 14:59:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150809_145954.jpg",
+    "phash": "ac4f127097c6ccb9",
+    "sha256": "eb312d808414d7c734cc91a0a566e86fd80b68728ceffe12beffdbe9e4a663ed",
+    "timestamp": "2015:08:09 14:59:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100107.jpg",
+    "phash": "b270cecdb35c9306",
+    "sha256": "32c403283046429bb331427888d76ab2e4d142e10df6e5f06d95d856a552f0b2",
+    "timestamp": "2015:08:12 10:01:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100112.jpg",
+    "phash": "b270cccdb35c9916",
+    "sha256": "7375f37b880a4c3736d74696cbe279b787b9ea9875c4cafdf63723ff6ddd23e9",
+    "timestamp": "2015:08:12 10:01:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100116.jpg",
+    "phash": "b070ceedb10cd33a",
+    "sha256": "625ef9afbaed69ad6f4603b041a4092218d2ba39e3a6cb7fab271ee0b4493e93",
+    "timestamp": "2015:08:12 10:01:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100246-COLLAGE.jpg",
+    "phash": "db2ee498a1469b3a",
+    "sha256": "d9ae129d6a61e3df18871556954222ee41e220a2ca0e5c74f0bf3ae9e9c08667",
+    "timestamp": "2015:08:12 10:02:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100246.jpg",
+    "phash": "c6333cc5b90f334a",
+    "sha256": "07e7eca0c29264bc7fdcd362d3e82f8b768a2c1d38957b31416f7eced791c3c7",
+    "timestamp": "2015:08:12 10:02:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100303.jpg",
+    "phash": "de5a38ccd35e051a",
+    "sha256": "a0f87201b89d9f363262ef59bb83d8c35932caa78a5649a553b4dc5c22cd8cdb",
+    "timestamp": "2015:08:12 10:03:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100722.jpg",
+    "phash": "cfd6d598621f6064",
+    "sha256": "8165f8dbfcb9b577500b1e811df20c0d94d8bc4d7d54f3f7d31c218c45d27c02",
+    "timestamp": "2015:08:12 10:07:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100724.jpg",
+    "phash": "cfded50067706466",
+    "sha256": "383acab5aba3ce387972958197f82c1e6ff541e82bcccccd9951558d91478bb3",
+    "timestamp": "2015:08:12 10:07:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100735.jpg",
+    "phash": "c85a40ef6f705527",
+    "sha256": "e9098f778e602aee31500853f5e878b0df636fa646bc98b0f952d47bfe971836",
+    "timestamp": "2015:08:12 10:07:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100737.jpg",
+    "phash": "c45a50ed6f705527",
+    "sha256": "0606e3e7851a9405edc39ba0c06da51afcfcb6fd61bebc9b8c7a86c2d26b71ca",
+    "timestamp": "2015:08:12 10:07:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100737_1.jpg",
+    "phash": "c05ad8cc6f745467",
+    "sha256": "8b4ce1c8b3954b2909d63aa96a6432a4735d28d8f7ff40eef50f42623743556d",
+    "timestamp": "2015:08:12 10:07:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150812_100739.jpg",
+    "phash": "c05ad8696f7c4563",
+    "sha256": "7ed19a2d2f8bcd1a6d65780b23434018496fd5c6160be4b53c513c09ca66b2e0",
+    "timestamp": "2015:08:12 10:07:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150819_074421-COLLAGE.jpg",
+    "phash": "eef9974e81f19208",
+    "sha256": "c5b3d674c7d0522c6b00fbd1c8fb621da692ef30a84f335b195b7609eb9e9885",
+    "timestamp": "2015:08:19 07:44:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150819_074421.jpg",
+    "phash": "e15ebf4303a4fe02",
+    "sha256": "3c265f76b89b4f0b4c36bce2ce73b11e9bc874a225936f7009d0b5aaa9079878",
+    "timestamp": "2015:08:19 07:44:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150819_074435.jpg",
+    "phash": "e60ec34e8671bba4",
+    "sha256": "b8fed6b00fd408830dc0772f89ce0464bd5a8816903c81f0e08cc9c3fe02bde5",
+    "timestamp": "2015:08:19 07:44:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150819_074438.jpg",
+    "phash": "e61ad35e82619e65",
+    "sha256": "8c816a6aba4d53cde31d94570977a9614a094ae8d830df36e26dd20604737851",
+    "timestamp": "2015:08:19 07:44:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150821_072459.jpg",
+    "phash": "d139edc76e1c9091",
+    "sha256": "b52418c62de36dd3ec10f98dfeb8991d6a9645b8c6518d068ab87450e1d5f1d9",
+    "timestamp": "2015:08:21 07:24:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150821_072505.jpg",
+    "phash": "c17acd417cd091bd",
+    "sha256": "a489aa76a8ea2a3e48fe0799633698c9acad9878688c1c20567ab8cf2f70be84",
+    "timestamp": "2015:08:21 07:25:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150821_072536.jpg",
+    "phash": "d20e8f6769969589",
+    "sha256": "1d547dd9ca103c53ba815dea19a84dd57127a877d8e8b4bdcc38e7924acbe4c8",
+    "timestamp": "2015:08:21 07:25:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150821_072541.jpg",
+    "phash": "e21eaeeb692594a1",
+    "sha256": "98ca99c0cd337abf3280d0d4767b4eb21c7706fbc38c2ed6362fca662d9d39cc",
+    "timestamp": "2015:08:21 07:25:41"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150821_074005.jpg",
+    "phash": "c40c98bff0d9e6c1",
+    "sha256": "1367a6d1b8653828cc220a3f67171fb4c65c87ac7070bd22791fba97aeade80f",
+    "timestamp": "2015:08:21 07:40:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150825_161103.jpg",
+    "phash": "f7f5050de9951c0c",
+    "sha256": "a6bd5195a9c5c75ae804b929bc61072d9cc459995a3944082cae6a3fc32a5465",
+    "timestamp": "2015:08:25 16:11:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150825_161107.jpg",
+    "phash": "f6f4150fe796180c",
+    "sha256": "5fff6057a4569060425d71e50e3e3331e9c06df4a554a01d1dc936bf021e4fb0",
+    "timestamp": "2015:08:25 16:11:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_101738.jpg",
+    "phash": "cf37c8be09c2932c",
+    "sha256": "14885da60c49bd7850bff5a7a5d0f927bf42f50bb06b333ceeed5199384db843",
+    "timestamp": "2015:08:26 10:17:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_101739.jpg",
+    "phash": "cf15c8be09e3932c",
+    "sha256": "0a0497231ee62449aa45fd79624ceb04ede4ee20415985846cb00887d2a9ed7c",
+    "timestamp": "2015:08:26 10:17:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_102112.jpg",
+    "phash": "d57ba2d0de8162b1",
+    "sha256": "92d642337a01c5334aba1d73602c1e73a155918dfbf79c16b38b48d3e191fef3",
+    "timestamp": "2015:08:26 10:21:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_102118.jpg",
+    "phash": "d57ba6d05e896690",
+    "sha256": "417a81fa7a998b526a876d30c85a6551686950eb00ae1dc5b91a0f6b133ede1c",
+    "timestamp": "2015:08:26 10:21:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_102120.jpg",
+    "phash": "d57ba6d85e894291",
+    "sha256": "63c83c2dc78c62a0547b8dc163ca0e6ab03dff0af0e1dcab28c4a267e0be79ff",
+    "timestamp": "2015:08:26 10:21:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_102122.jpg",
+    "phash": "d57ba6d0de8142b1",
+    "sha256": "cce69e43a617f1aed5dc4d4e656d9d7a41786451fbc9f462e91873158d415a5f",
+    "timestamp": "2015:08:26 10:21:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_102128.jpg",
+    "phash": "c57ae6c99b8052b3",
+    "sha256": "83aef1031eb1183a14d9f40fb32f51fda581ff41175c81f193448c2206967f8e",
+    "timestamp": "2015:08:26 10:21:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152915.jpg",
+    "phash": "c5eceb939a927144",
+    "sha256": "ac85b2fccadd2ff93e5a50124706415f9050ad6ab6dd1884a84abc3168609d11",
+    "timestamp": "2015:08:26 15:29:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152919.jpg",
+    "phash": "c5fcee93b016614c",
+    "sha256": "2de0f543c7edc2501aee874373f00458a802205c1289d0b1169e3f37eee24a11",
+    "timestamp": "2015:08:26 15:29:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152922.jpg",
+    "phash": "c5fcae939a12654c",
+    "sha256": "420dd42db368219af6befea34f09f4a125485ba31f9141444ceb5f714b59ef3c",
+    "timestamp": "2015:08:26 15:29:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152925.jpg",
+    "phash": "c5f9aa92b21665cc",
+    "sha256": "51d42d1b172cb5030a0544f6c28e6fe75738f7d5a82b028dff926389257d8273",
+    "timestamp": "2015:08:26 15:29:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152929.jpg",
+    "phash": "c4f9ab92b21665cc",
+    "sha256": "1f5f59606ddbc656cc3fd1290c708ad590b835bdb64d3f0e980822af3b12c23c",
+    "timestamp": "2015:08:26 15:29:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_152937.jpg",
+    "phash": "e2f5a78899937446",
+    "sha256": "d8ad65d651ad73f268f587b2e468acaecd28e2ad940a257b700c82271c745765",
+    "timestamp": "2015:08:26 15:29:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180549.jpg",
+    "phash": "e47158a45979cace",
+    "sha256": "a97b306451e0fabbcc82c862a2e7b9ab4b5a0a5644ec5ac1693df96b0c88099a",
+    "timestamp": "2015:08:26 18:05:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180552.jpg",
+    "phash": "e67158b45979ce0c",
+    "sha256": "0aeefe08d1555c27f5100bbcc9055fe49c2016edf72a302ce42eb5041be911ad",
+    "timestamp": "2015:08:26 18:05:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180554.jpg",
+    "phash": "e67168b55969ce05",
+    "sha256": "581b2e377c80aef7cd7f0ce37884d9301fe56622f5a97beb55b4216132d7d2c9",
+    "timestamp": "2015:08:26 18:05:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180605.jpg",
+    "phash": "e65c727128c3ec5a",
+    "sha256": "902aa9e14ba0f94636e04b86f8c644d9813a4484acfc0d122492fe6bf9813283",
+    "timestamp": "2015:08:26 18:06:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180611.jpg",
+    "phash": "e0597ad22ca3e4e5",
+    "sha256": "0d76298e13d423b03101a57885b642631a7415092eea4ca6024b2f9ba270d34d",
+    "timestamp": "2015:08:26 18:06:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180626.jpg",
+    "phash": "f15952dc0d8aa7e8",
+    "sha256": "75abc009d7ddc04cc16b75645cfdeb16fc2e4ce0b622a44ccb129c8f2f48d6b0",
+    "timestamp": "2015:08:26 18:06:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180700.jpg",
+    "phash": "b923a4542e9eb49d",
+    "sha256": "b3adca4a25a572e0393ed105f3ffd30fea60b9bd571535b21c9fb4f7df1a034c",
+    "timestamp": "2015:08:26 18:07:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180716.jpg",
+    "phash": "9c92b13d2de54353",
+    "sha256": "ae4dcaa583988ed7094e19e633c293c11f24e6733e04516f33f941bc32961dcb",
+    "timestamp": "2015:08:26 18:07:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180719.jpg",
+    "phash": "9896a1bd3ba98c17",
+    "sha256": "52265347202f045c427074cb5a6034f6b9ecde15604d779fc84070a77034813f",
+    "timestamp": "2015:08:26 18:07:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180720.jpg",
+    "phash": "9996b1bc3da90695",
+    "sha256": "06a5dad0855e8d26ee5604564a91b4ee4a79001372b9464e200637278aa8522c",
+    "timestamp": "2015:08:26 18:07:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150826_180730.jpg",
+    "phash": "d996a8b93fa98c81",
+    "sha256": "9221d095f6526df5e09a63c97763bbd5dbae27acd00861a9af7f4a2193c267c4",
+    "timestamp": "2015:08:26 18:07:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150829_133916.jpg",
+    "phash": "ac8a1eb7e2e89866",
+    "sha256": "8f9532663e7a634ea3d2e52b6bdbc188c40c9f832470985b0d5c3e5ccd94aa19",
+    "timestamp": "2015:08:29 13:39:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150829_135824.jpg",
+    "phash": "9718be85ca9b9a98",
+    "sha256": "c46f4f710178d15e18f921eb38e97c905e8d03e0da52bea8dd2b616e7b7f5a02",
+    "timestamp": "2015:08:29 13:58:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150829_135902.jpg",
+    "phash": "978fc93339387232",
+    "sha256": "3e2b57b7050e76c3eb66be3d7d01536a178f3e183ae31e3369bc8e9ad044ad2b",
+    "timestamp": "2015:08:29 13:59:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150904_074325.jpg",
+    "phash": "8e6c52d1a52eec8b",
+    "sha256": "b2772c722868642bca55a24511c7afd5b9432e52af3658f7e9706bfb0289c021",
+    "timestamp": "2015:09:04 07:43:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150904_074337.jpg",
+    "phash": "8e265b5df52ae680",
+    "sha256": "6474a347fc53b6dd07eb6d294944534e13c40ff7b387c65e2d1cd766faefa762",
+    "timestamp": "2015:09:04 07:43:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150909_073949.jpg",
+    "phash": "a80af76d32e1964b",
+    "sha256": "47966e0e0de3a39b2c6ae5c5785eaf6b7a110ae6b8dfc8e62f6c8df72bd4df82",
+    "timestamp": "2015:09:09 07:39:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150909_074035.jpg",
+    "phash": "e915ea5a36ea0556",
+    "sha256": "87c82b8b7985f02e86a9f3b15b8cbc850cbb330057d558db18835bbe3bfad0f7",
+    "timestamp": "2015:09:09 07:40:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20150909_074043.jpg",
+    "phash": "a80af52b3ae50bda",
+    "sha256": "a7fb00a22aa31200dc1fcfe0f3a1c76c25b6a1c9ebcbad79a1fa951c5528bf73",
+    "timestamp": "2015:09:09 07:40:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151017_221352.jpg",
+    "phash": "d72d10817d5ba3e4",
+    "sha256": "1041614f3f14d50367b263f4d76e2211b3e82a23b76ed4d13673eea863ea5c2f",
+    "timestamp": "2015:10:17 22:13:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151019_170511.jpg",
+    "phash": "9935e60b4bca6a55",
+    "sha256": "33dde699041592e7a5629909111197cf619dc387c969070ff4a9711488b91f7b",
+    "timestamp": "2015:10:19 17:05:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151019_170514.jpg",
+    "phash": "9934e60b5bca6e43",
+    "sha256": "4f29b60b083a24a83fd10d53e6a4da10e903afbc174261df0eda92881ff8037c",
+    "timestamp": "2015:10:19 17:05:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151112_213621.jpg",
+    "phash": "fbd289d813e00776",
+    "sha256": "a37d6eb2785a3491f280067eeb92aa095dcfbe73f1d54328d4a28c32058be410",
+    "timestamp": "2015:11:12 21:36:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151112_213626.jpg",
+    "phash": "f9d184d102fd03f6",
+    "sha256": "f80ef43eb0718707fbc0ce9485a1f4c612aba3d158ec294ead28d0969a64297d",
+    "timestamp": "2015:11:12 21:36:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151112_213833.jpg",
+    "phash": "c7ff80a8c2a89f07",
+    "sha256": "b896b6e10e2fe04294954a2027229366bf05d66880b77cf6f902e386b3a3ed99",
+    "timestamp": "2015:11:12 21:38:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151112_213840.jpg",
+    "phash": "ffd8a580a983d6a8",
+    "sha256": "243fb3808caca99627899f7ea0e2345a1fdd2c95f288cb8f8f798a170ae0dae0",
+    "timestamp": "2015:11:12 21:38:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151206_154424.jpg",
+    "phash": "babd785cc223a6a1",
+    "sha256": "0130533e0e4300f510b525fa6462993ea9a6ede89d1a547f6769fadc021002e2",
+    "timestamp": "2015:12:06 15:44:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151206_154434.jpg",
+    "phash": "b9a85ad8a7a58595",
+    "sha256": "91cb5305b8e9c1d0d65bab8302f298c2c8c74dfcfaf2075edf792d65888bbda1",
+    "timestamp": "2015:12:06 15:44:34"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151222_073630.jpg",
+    "phash": "9a67659aa3932969",
+    "sha256": "af32b8d19d88f8d0881d82cea3160d0457283546959ffcb25ebf3657cfb49007",
+    "timestamp": "2015:12:22 07:36:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151222_073641.jpg",
+    "phash": "9959a6599be7089c",
+    "sha256": "71fb46fcb9d3987b4f84fcafe1211630142aed5cec5f4cf4bb84a943e66fee73",
+    "timestamp": "2015:12:22 07:36:41"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183044.jpg",
+    "phash": "927370c16b6cb39a",
+    "sha256": "38281589648bed0d26b810c9f239ccd0bc0929f1589a51ffdcf19e1cc71d93ba",
+    "timestamp": "2015:12:29 18:30:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183059.jpg",
+    "phash": "ac382b5673728cec",
+    "sha256": "54d8e7dbc39f2177b3ffc33ce9493858f407cc6309238a5156d752181eae5e12",
+    "timestamp": "2015:12:29 18:30:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183103.jpg",
+    "phash": "842a2d73737a50f5",
+    "sha256": "b7ca50c44002e62e85e68ee793aee5d11cf5c4ab179aece0b9ac7ff9c2b62e5e",
+    "timestamp": "2015:12:29 18:31:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183107.jpg",
+    "phash": "a4ae2973727a52d4",
+    "sha256": "c0172156d1422f376acd48926c1ccffe2784395ac02b33ddcb919a883635405f",
+    "timestamp": "2015:12:29 18:31:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183123.jpg",
+    "phash": "8dc6c7c4826bd837",
+    "sha256": "4f38995db872331d9ae5678e5ad31f434d98e8031e68f42058eeb45439861ea2",
+    "timestamp": "2015:12:29 18:31:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183124.jpg",
+    "phash": "85c657c4926bd897",
+    "sha256": "0c4a5186490466cd20685ec67688204229160276bf7f7b9f4979284ca05a4b3b",
+    "timestamp": "2015:12:29 18:31:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183129.jpg",
+    "phash": "91f7f28d32691c34",
+    "sha256": "d201edb77335b5a2d2423a0eeac4eb7f7bd00d4655443d323cd92d1310d43e96",
+    "timestamp": "2015:12:29 18:31:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_183339.jpg",
+    "phash": "ea1c07e0497be9d2",
+    "sha256": "953dcb0a06a70f2263945d1dd691ec4156e1fddb383d04922d6629664147a44b",
+    "timestamp": "2015:12:29 18:33:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_184429.jpg",
+    "phash": "db086719cd8bbe22",
+    "sha256": "22073aa1436c343398e07bd3ec4c3fb131c07cb112315cb816e5098072cb9cdb",
+    "timestamp": "2015:12:29 18:44:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_210920.jpg",
+    "phash": "8f0b507b55786956",
+    "sha256": "1f032dd80a19403e96f2d88a702a2aeb0336bbfeb2fe2404aec5507a2b732578",
+    "timestamp": "2015:12:29 21:09:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_211121.jpg",
+    "phash": "a31965679ec0b25d",
+    "sha256": "84635ff3f0f30d37eb91432f11d16f2d281dcb6ff7d0f7caa19c9196f2a6ea57",
+    "timestamp": "2015:12:29 21:11:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_211124.jpg",
+    "phash": "a239456f9e81b279",
+    "sha256": "5d51b70b2ee353ff2ba9eae0965843b36ebdd2e8c01820ebde06fdf023f778ff",
+    "timestamp": "2015:12:29 21:11:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_211126.jpg",
+    "phash": "a139454f1ec0f36e",
+    "sha256": "eb660db10862ecac0dadb3a8d5dba6e39f629c39fababd1c454296c70a405bf7",
+    "timestamp": "2015:12:29 21:11:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_211128.jpg",
+    "phash": "a139454fbec0726e",
+    "sha256": "c5da6a650ceb0ae2791b1d94195853004c72f4f43e462a380c319816725ffba9",
+    "timestamp": "2015:12:29 21:11:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20151229_211144.jpg",
+    "phash": "b42f3a600766e787",
+    "sha256": "55808fce6450db37f55adcae08885f2440e68f1ec73025f6e0ef33168bb3a45c",
+    "timestamp": "2015:12:29 21:11:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160103_154007.jpg",
+    "phash": "93666d2ad5b0b266",
+    "sha256": "de669584b840e25d15eb84c5087a07a41dd61e44ed760e5d3daaa81ba0752a7d",
+    "timestamp": "2016:01:03 15:40:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160110_095012.jpg",
+    "phash": "cac68cd56171c676",
+    "sha256": "2eedac873416fe25b6157c2e7f4869d4451fb611e4b98de3e0d31ddbc6e2bd70",
+    "timestamp": "2016:01:10 09:50:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075635.jpg",
+    "phash": "9c6393a16d963a39",
+    "sha256": "527c020954b6124a40290c4ee40b62ffec9ff672815673dc6d858850253ff61e",
+    "timestamp": "2016:01:22 07:56:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075636.jpg",
+    "phash": "bc6393a16d863a39",
+    "sha256": "d5d81ef785d9ec1b72b3186c292c57c0ed813f84bdedd07a9a34b11d2883ab11",
+    "timestamp": "2016:01:22 07:56:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075733.jpg",
+    "phash": "a5045c7bc27c5b53",
+    "sha256": "270c466a09ffd2366eff669f0e9e90fc3a8043bd99dabdda3ba9939be1e70004",
+    "timestamp": "2016:01:22 07:57:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075734.jpg",
+    "phash": "ad05197bc6781ad3",
+    "sha256": "620140faca0dddc3edb0a1548dbcabeb82e1f54a8ce34f6439f8be87267e353f",
+    "timestamp": "2016:01:22 07:57:34"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075802.jpg",
+    "phash": "a5041efbc37899c6",
+    "sha256": "a3060cc3d585604b575c990222fd4e8755e9bfab8a60d21a99c264d1abe26201",
+    "timestamp": "2016:01:22 07:58:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075803.jpg",
+    "phash": "a5041cfbc77899c6",
+    "sha256": "7cc381842c1582b34fca02c1900972051fe1ebef25b5f1f99528f4f00a50fed3",
+    "timestamp": "2016:01:22 07:58:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075808.jpg",
+    "phash": "ad01147fc7673c92",
+    "sha256": "9c505d041f947c186e560d711e33c7a1d3f9d68d54e99e6be46e66589354a560",
+    "timestamp": "2016:01:22 07:58:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160122_075810.jpg",
+    "phash": "ad011e7fc76119d2",
+    "sha256": "3adc2bedb9128213ecd1dd49ef44414fa832e7d079cd47f0838ec2e8c62d6b9a",
+    "timestamp": "2016:01:22 07:58:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160123_194453.jpg",
+    "phash": "ce61f550687e09f1",
+    "sha256": "f830ff9fc5967544ab0f6cb2c9b7f04adf26612b66c4bd2b58e6b0815dc5b70d",
+    "timestamp": "2016:01:23 19:44:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160123_194454.jpg",
+    "phash": "cee1b55268fc4196",
+    "sha256": "e3fa85f45eecd799dbf1a96328f1741323eb25459bc1c54f04373d490d00804e",
+    "timestamp": "2016:01:23 19:44:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160126_180901.jpg",
+    "phash": "e6d8d891b9e187b0",
+    "sha256": "625100c41a804cf4d3c27b5365443f5b2c48bd63a75c3581c7ee69337bfe3de5",
+    "timestamp": "2016:01:26 18:09:01"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160126_180905.jpg",
+    "phash": "e79898f9b5244a4d",
+    "sha256": "d992a754b9377a01ddd85397b78b8dc03cc1408c08458e9f812bf12f7f078582",
+    "timestamp": "2016:01:26 18:09:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160126_180907.jpg",
+    "phash": "e6d89bb1e5067a90",
+    "sha256": "deb92cf74588785eb23cb36ca83ebb0c389ba8f0b37081f2df4e924f545e0a2f",
+    "timestamp": "2016:01:26 18:09:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160126_180910.jpg",
+    "phash": "e69a98b1e5267ac4",
+    "sha256": "4732c7be5707ffad6b3d3cc8646f319eef9f77d9937a702c760ec994baa31b4c",
+    "timestamp": "2016:01:26 18:09:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160126_180916_BURST1.jpg",
+    "phash": "e6da91ac65335a8c",
+    "sha256": "18dc9d43872ec5df4dcb37058cf8db7bce0248995211f817ed12a16d8d6df7bb",
+    "timestamp": "2016:01:26 18:09:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160130_074259.jpg",
+    "phash": "b24575915a6a85f3",
+    "sha256": "af0ad5c88c321965ac0e99335f9ff881dd14052c29c9dec210bb8a34f0632eb1",
+    "timestamp": "2016:01:30 07:42:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160130_074300.jpg",
+    "phash": "bb4476910bea94f1",
+    "sha256": "cf276532b1d5f3b8e8535e7587bd267281b6928cf366b9ae04b2559c9e92aa79",
+    "timestamp": "2016:01:30 07:43:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160130_074308.jpg",
+    "phash": "ad567419a9f21671",
+    "sha256": "cf2f5f941e36cff278dbadaba1cffc3198e1a9fcd6c25f0a01d63cbcb3a9daf5",
+    "timestamp": "2016:01:30 07:43:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160131_162302.jpg",
+    "phash": "b997c26867311b39",
+    "sha256": "487fd93085b6cebe832771a2a356c19fb59399d2238549d1e9cdd33bf51dee96",
+    "timestamp": "2016:01:31 16:23:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160131_162307.jpg",
+    "phash": "b997422a751d1b3c",
+    "sha256": "0a69e32ffdf2781a81f3e1958fd73a7b0bc5c9446b56cbb9b640364546b8c134",
+    "timestamp": "2016:01:31 16:23:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175531.jpg",
+    "phash": "f2ece0927ed68489",
+    "sha256": "d2f6c539a7c1c3642bd1e40202bc50fc7bff552a22def69cd9643c38945699e9",
+    "timestamp": "2016:02:20 17:55:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175537.jpg",
+    "phash": "f94eb961d61020fb",
+    "sha256": "7e8310ed9c9057f7a87ccbc27e5bb6c9d6b43405305e23aab3429e6b7b5c4fc9",
+    "timestamp": "2016:02:20 17:55:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175538.jpg",
+    "phash": "db4ef0e1161c24f3",
+    "sha256": "b16c09861e38af551bdf7a119228b7760c5b1e0578f7ed1208948b96027abcc7",
+    "timestamp": "2016:02:20 17:55:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175625.jpg",
+    "phash": "e66995246c1af68d",
+    "sha256": "7d24d1870dd6c1b29f23211f6c27141e886218f600b6bead048d57397db32390",
+    "timestamp": "2016:02:20 17:56:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175629.jpg",
+    "phash": "b36dd1366d49d118",
+    "sha256": "f8b9010e6e460bcda2e00d75e50084dfca89bedc5869186b0a8261b9c286e3c0",
+    "timestamp": "2016:02:20 17:56:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175635.jpg",
+    "phash": "b36cc9374c59c90b",
+    "sha256": "012d93affbcf8ef464491a7cd9b777796eaa76748add46a7b049d67b1dc7a02d",
+    "timestamp": "2016:02:20 17:56:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175638.jpg",
+    "phash": "b36cd8374c49cd0b",
+    "sha256": "5e269c59dc78f53160605055214b6483aa7e50a2e62d45fa6a577f3050078791",
+    "timestamp": "2016:02:20 17:56:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175640.jpg",
+    "phash": "b36cd8374c49cd0b",
+    "sha256": "b99a29e6684909827f2f24f052461d0ac38683de8258e4b49850241cfe608cba",
+    "timestamp": "2016:02:20 17:56:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175642.jpg",
+    "phash": "a7ccd1324c7fc198",
+    "sha256": "117f1477c193f71c3d748bc7490eccdb5fbcd91db5ea38ce3d6576befc68cf6b",
+    "timestamp": "2016:02:20 17:56:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175722.jpg",
+    "phash": "f61f20e50886997f",
+    "sha256": "b37be1dd0afb8104c6eb9c7729b3d7355b142f3d3f5d7fbce1f1147fd86a7fb1",
+    "timestamp": "2016:02:20 17:57:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175738.jpg",
+    "phash": "f10d46ce38fc70e4",
+    "sha256": "690eedcbe5e5249cf48d2e2fb455bd8d51ef0062d48df5522433a9d735e4529a",
+    "timestamp": "2016:02:20 17:57:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175740.jpg",
+    "phash": "f01d47c81aee60ed",
+    "sha256": "6d0cd77d539430d54150ae7c0479171fd85746aa320802a465ce3cb302eb137f",
+    "timestamp": "2016:02:20 17:57:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175744.jpg",
+    "phash": "f01a4dcd14f960fa",
+    "sha256": "fbafc52c32101e6922216a4fd2fc2e3079b356b9582cdd3766c79d37acd3e9de",
+    "timestamp": "2016:02:20 17:57:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175746_BURST1.jpg",
+    "phash": "f00f45c41cfc68eb",
+    "sha256": "ab07d8b5af6281da1c8025d5c952cb6f77139f6a87fc0400a1cc5297a27624db",
+    "timestamp": "2016:02:20 17:57:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175752.jpg",
+    "phash": "f00f0dcf18b728f2",
+    "sha256": "c61faf65397c228eeb5f8b282c0bd3fc12f5705c8db1fb9521548a53c8c1d2e0",
+    "timestamp": "2016:02:20 17:57:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175755.jpg",
+    "phash": "f21b0dcf181f19f0",
+    "sha256": "2eaa40d13d96a2dde0f2d25d0521ca7419456a5da694103704d9285fbc3a837c",
+    "timestamp": "2016:02:20 17:57:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175904.jpg",
+    "phash": "ed30e20f37b88e32",
+    "sha256": "3feb36e2bfcc171136642e4868a5b2485e73ee8bcd52c0b6ec91bf794f1a21a5",
+    "timestamp": "2016:02:20 17:59:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_175909.jpg",
+    "phash": "847fd3a50db0bc0d",
+    "sha256": "bb0fda9323d5e0366d87caa49337a20f4b1217abfa424f1744e6bd71cd0914af",
+    "timestamp": "2016:02:20 17:59:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180053.jpg",
+    "phash": "b346bf122cee3905",
+    "sha256": "3ff5b63b96cb2d3d3569225371e143f7b06d1d6cc22fb1c60c24015eaf621544",
+    "timestamp": "2016:02:20 18:00:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180057.jpg",
+    "phash": "b14c1f3366da5866",
+    "sha256": "f0b9416f726e761b4590c1846061959f34a5513fee1d17377578564f0aa623fc",
+    "timestamp": "2016:02:20 18:00:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180103.jpg",
+    "phash": "bc669e5d63235c30",
+    "sha256": "3fcc1f761bf854485007fc5afab20463fd0625a9964ca5e0bb26bcd68f22ed2a",
+    "timestamp": "2016:02:20 18:01:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180105.jpg",
+    "phash": "bc461a5d63235c73",
+    "sha256": "9d470b9253b9c09b62d450cf7d6d0da05189711101fa9694ebbcf8def6829405",
+    "timestamp": "2016:02:20 18:01:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180136.jpg",
+    "phash": "bc601f4f6a265e4c",
+    "sha256": "d5f44ec4b70477cdb157b2befa32a4940d00994b672b53845e04ca2db6820b76",
+    "timestamp": "2016:02:20 18:01:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180138.jpg",
+    "phash": "bc613f7c400e5c6e",
+    "sha256": "bdc00bc18407bbdedea968f931ab7d18c0b0f8c368dc1a047f86e744a9776194",
+    "timestamp": "2016:02:20 18:01:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180140.jpg",
+    "phash": "bc41bf6c688e4c6c",
+    "sha256": "41742be20c85915e01bef37579a6b1ca786757dff730cd798fb35e5cb97ecf5b",
+    "timestamp": "2016:02:20 18:01:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180145.jpg",
+    "phash": "bc6009077a6e4e7e",
+    "sha256": "7f01fcb87d7dafd9e8e4efbbefba27481d13eda8d097d23726dab3e577a589bc",
+    "timestamp": "2016:02:20 18:01:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180147.jpg",
+    "phash": "bc60094e6aee5e6c",
+    "sha256": "fe3f321c6407a52169bd6efa72508bb6d4e6e8f8cd687fcd1c0aa91ff01c121c",
+    "timestamp": "2016:02:20 18:01:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180151.jpg",
+    "phash": "bc611b4c6aec5c6c",
+    "sha256": "bff117006fd03a1143e9f64c2810bab4f0e90b53f166be2ef6a105ad0a120ab3",
+    "timestamp": "2016:02:20 18:01:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180153.jpg",
+    "phash": "bc611d4c6aeccc6c",
+    "sha256": "54faaae0526bc4993847bbba7831927bf3bdb3d7bf6d4597d8fb302d9ea18ca7",
+    "timestamp": "2016:02:20 18:01:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180218.jpg",
+    "phash": "be61104e68eccef8",
+    "sha256": "5f8a3527bf394545a2cd71ea2e5a275336a6d4b3053e2122fc858a4dc9a2f2a0",
+    "timestamp": "2016:02:20 18:02:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180221.jpg",
+    "phash": "be61305e48ecc6f8",
+    "sha256": "f10b11b7707a98262174753a3cb4c4e36d64883b8a257ae186e882e1959296db",
+    "timestamp": "2016:02:20 18:02:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160220_180228.jpg",
+    "phash": "be60164e6cc6f9b0",
+    "sha256": "fa971822aaf46b3fab9aa1fcc6a36e969c93cd0bffae10f6d93a76637a1454f1",
+    "timestamp": "2016:02:20 18:02:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160306_193926.jpg",
+    "phash": "90eba0c9aff00f2b",
+    "sha256": "1ee53918c355da2adbb623436df0fad1d5192be15d679b98776544873464e945",
+    "timestamp": "2016:03:06 19:39:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160306_193929.jpg",
+    "phash": "81caa0ddaff20f0b",
+    "sha256": "87ad75a04a93941cc58365bd458e92f738abfa898b4f071f4ce330edd74a9bb6",
+    "timestamp": "2016:03:06 19:39:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160306_193932.jpg",
+    "phash": "91c920c9aef28f2f",
+    "sha256": "b108b9432a0ef3d618d09f5b0ac962f6b6ba60a632845dec12e30f21d0e645e0",
+    "timestamp": "2016:03:06 19:39:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160306_193950.jpg",
+    "phash": "a4caaf4688a6ed1e",
+    "sha256": "39a8bdae016e95ca2ea09de1e592dddce13b12e7c126aba42b44dd2968dbb97a",
+    "timestamp": "2016:03:06 19:39:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160306_193953.jpg",
+    "phash": "86daad4688a5fa59",
+    "sha256": "b767f2d3584b4f3f601294570afe0e654084aff81242d33d6692beed61fd852a",
+    "timestamp": "2016:03:06 19:39:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_172426.jpg",
+    "phash": "c3be9d1b2437303a",
+    "sha256": "035a2594f929a4a0f3a6a52fb8d31fad6342a799e124142328ecc54bc54bfe3c",
+    "timestamp": "2016:03:08 17:24:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_172449.jpg",
+    "phash": "c8b7bedcc3c1b480",
+    "sha256": "03eff8d258ccd52177c8a189b4ea2efbce004ea9d25cc72bf5be7a9c1e9aac01",
+    "timestamp": "2016:03:08 17:24:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_172451.jpg",
+    "phash": "c8a7fec3c035a564",
+    "sha256": "c878dcdf9473a6badca84c72e6531a797e11e5a731622c784d094bbf3471efd8",
+    "timestamp": "2016:03:08 17:24:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173049.jpg",
+    "phash": "d8aec309b7013dda",
+    "sha256": "fc744e0262333de82160d62e085d6f36f3f16bc90f0932c59d379c492357dbba",
+    "timestamp": "2016:03:08 17:30:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173055.jpg",
+    "phash": "cbbec28d9e80a59c",
+    "sha256": "0d92cd25ed55ee7e7e37539c33eadc482b9eac8ba25ca8991cabb869ca44b733",
+    "timestamp": "2016:03:08 17:30:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173101.jpg",
+    "phash": "cbaff2c91f900195",
+    "sha256": "ec63e8ada98ffaef4f75e269a8ba582f730db8427505544900d60d0c6a358007",
+    "timestamp": "2016:03:08 17:31:01"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173104.jpg",
+    "phash": "c9bbe2cd0d9ae105",
+    "sha256": "5d5add70b3aa5218946a3209aad6100e5efbc9202d054c105514d57caeae6c11",
+    "timestamp": "2016:03:08 17:31:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173110.jpg",
+    "phash": "dbaec20998a02ffc",
+    "sha256": "04ff6d8b264b1dd6803f517d2d250dbd8d9c2526a7e4a2c8cb9e6163b965f3fe",
+    "timestamp": "2016:03:08 17:31:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173118.jpg",
+    "phash": "dbaee28b1fc00387",
+    "sha256": "3286af5fe2acc06972395a87ac795b4c301d145f4a983b86e588fa802461df3e",
+    "timestamp": "2016:03:08 17:31:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173554.jpg",
+    "phash": "c6464323a4e19bfb",
+    "sha256": "34bc7334cd5f5ef0aac3b506d2369d5d404dc246dd055aba145199cf888bb714",
+    "timestamp": "2016:03:08 17:35:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173622.jpg",
+    "phash": "9c4c49e1bd8dc4c7",
+    "sha256": "73bcc870f04720d99d7c70ec0b24b896f3d5ba086299c3cb5f7c99a9a0a30056",
+    "timestamp": "2016:03:08 17:36:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173625.jpg",
+    "phash": "b95c49ecb2298cce",
+    "sha256": "b9f1d1fc12acb5d9c25a63644820391b52d44061a2aeea3e0a779ec3fc3dd347",
+    "timestamp": "2016:03:08 17:36:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173631.jpg",
+    "phash": "86466a3cbfa60747",
+    "sha256": "6e3f54bf1c22eada594d07caf759f28f63c7cf36edae77405ad4d37220066b55",
+    "timestamp": "2016:03:08 17:36:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173847.jpg",
+    "phash": "e959b5b1b5840e17",
+    "sha256": "d427110f667af0a261fc8263ce7731c5334ca9eb556dd74363beedb50e73ae17",
+    "timestamp": "2016:03:08 17:38:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173930.jpg",
+    "phash": "ec9b92bb5652c8b0",
+    "sha256": "31311cfe64db55e2739df9371593975fd0f613b8715fe80e993a62cdf3718c52",
+    "timestamp": "2016:03:08 17:39:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173940.jpg",
+    "phash": "ec999899d053497e",
+    "sha256": "83da3f608da11d5deafa23b42800ca6d46469fdde58574b394c2297da8fa13eb",
+    "timestamp": "2016:03:08 17:39:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_173943.jpg",
+    "phash": "ecda92a8b435c563",
+    "sha256": "f78bf8b42c7b45bf39dd236aea8d403c6eb8f0a8614eb9821899f61f2b410221",
+    "timestamp": "2016:03:08 17:39:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_174031.jpg",
+    "phash": "e393f3e36262e288",
+    "sha256": "35cfa1844f46a360d0332cc5595a21d0a01e44b273383763488a88becc02e779",
+    "timestamp": "2016:03:08 17:40:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_174034.jpg",
+    "phash": "e392f2e3424eca99",
+    "sha256": "406939b5744f65757cb70d07f57c0d2c275f5fa00c4d90c30b39a87e262c64ab",
+    "timestamp": "2016:03:08 17:40:34"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_174036.jpg",
+    "phash": "e392e2e35252d29b",
+    "sha256": "7d8db008efc3d5c5fd8ba258bdb96099dfbdccbbe3d57e6396af639fe064331c",
+    "timestamp": "2016:03:08 17:40:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_174040.jpg",
+    "phash": "f394f6e90d0e8c8c",
+    "sha256": "fafc17a240eeb6796e3938c999bd9738c7794305ad3a18c55054194284464d51",
+    "timestamp": "2016:03:08 17:40:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_174042.jpg",
+    "phash": "f892f2ec4c8c8d8b",
+    "sha256": "a8c53aa71e93c769de3a602a36a2fc849712ff3892510ef46643374918f1ac4b",
+    "timestamp": "2016:03:08 17:40:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_192853.jpg",
+    "phash": "d46c97729f7202c3",
+    "sha256": "75cfc6292a1f67b786861b2796c66c1d90693558b75de436a4f1bf0f21b56c2b",
+    "timestamp": "2016:03:08 19:28:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_192909.jpg",
+    "phash": "d16c97532f661a07",
+    "sha256": "489c6d01e39f36c651a68e46316efa8aac67ac7dc424e793c2fce95ab85d46c5",
+    "timestamp": "2016:03:08 19:29:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_192912.jpg",
+    "phash": "d06c97733fe00647",
+    "sha256": "b2c704bc5d77a0e957cd0bce33bd72a97e2f59a6da6fda2e2d3b651f2c9b858f",
+    "timestamp": "2016:03:08 19:29:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_194111.jpg",
+    "phash": "d12798666d7607c9",
+    "sha256": "ac99b4389c7f7750b928782705b65b73afbfaf75e9ab6231e2596651e0587342",
+    "timestamp": "2016:03:08 19:41:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160308_194115.jpg",
+    "phash": "d236d823dd7603c9",
+    "sha256": "72ee277994d01b7cac487b89e6b90a7efb3c0b0c14fb17b701ac66a0a2e24abc",
+    "timestamp": "2016:03:08 19:41:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172145.jpg",
+    "phash": "ee2b42b4e5334936",
+    "sha256": "ee4e52cb4d6418c7f72b12f5f45b17e9f58039677f714b1b331900fdb3d2d279",
+    "timestamp": "2016:03:19 17:21:45"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172155.jpg",
+    "phash": "cd7842bce5234b3c",
+    "sha256": "1e853998ed4019f1c99cd258cc1eca1a441c79ac31a5fcbba2872244fba8ddc4",
+    "timestamp": "2016:03:19 17:21:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172232.jpg",
+    "phash": "b1ebcd1ed224c338",
+    "sha256": "a9291d784d274e5c533248a1b0e3299af017e4a6a8583f1b327ca887af77ef3c",
+    "timestamp": "2016:03:19 17:22:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172239.jpg",
+    "phash": "a7c89a3d856b1c36",
+    "sha256": "c06538f57fe8bac7fb1f6ce4d563ad5ba557ca5484b582d572a2b8c63e37f9ca",
+    "timestamp": "2016:03:19 17:22:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172316.jpg",
+    "phash": "c87721daa68d7859",
+    "sha256": "ddb6ba2534a1c681d1971190f1f84622b1debd6994108abaf1c91278ac4a6794",
+    "timestamp": "2016:03:19 17:23:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172347.jpg",
+    "phash": "c148a4cb7b86f378",
+    "sha256": "3fadfcc3b822ccb51745020d222961a7a93112267576953df83308efc77e02e4",
+    "timestamp": "2016:03:19 17:23:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_172352.jpg",
+    "phash": "c463a1cc369cf23b",
+    "sha256": "2ec8efc037986b2d0f83b8002e28fd9e2c9e4ac6446878e79a0f5d3fadb98eed",
+    "timestamp": "2016:03:19 17:23:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_201906.jpg",
+    "phash": "de08b6c6e1c26597",
+    "sha256": "3bcba21539f7ff54e82bd86b7088b59d836e96155ca137c16c5b7ea8f3234da8",
+    "timestamp": "2016:03:19 20:19:06"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202720.jpg",
+    "phash": "87b8fec32c197c03",
+    "sha256": "f18fb0df7f39e3901e3f4da9b476e58297674590d3ba97f26dd78d8cb2e5deb4",
+    "timestamp": "2016:03:19 20:27:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202937.jpg",
+    "phash": "c78699ede1241a1f",
+    "sha256": "240b50204ed7ece3c0cf836b8d0c81dfb30755d912727cf46bea4fa61804093c",
+    "timestamp": "2016:03:19 20:29:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202942.jpg",
+    "phash": "9527dad20c19f5e4",
+    "sha256": "1e83043e361170230da3922ca85174d1225181a7bfcaa34fe327c7274cf30181",
+    "timestamp": "2016:03:19 20:29:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202942_1460559906048.jpg",
+    "phash": "c52c6cb6f6635303",
+    "sha256": "63c8793e033bda5449aa44dadf438b4b1513f4b78cd60baa258bb5c03feeb136",
+    "timestamp": ""
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202950.jpg",
+    "phash": "8437d8db99246cf2",
+    "sha256": "0331d75cc37aba960e1b4b22a05dee31098fef6e7f21433b9f1947ba1b18dc58",
+    "timestamp": "2016:03:19 20:29:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_202955.jpg",
+    "phash": "85b5f8ce9824f863",
+    "sha256": "84f52052743a7b68245d6b83faef807a553aac5841a1cce792e32a188266cbc3",
+    "timestamp": "2016:03:19 20:29:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203032.jpg",
+    "phash": "954d0596d24bedb4",
+    "sha256": "94f8c71fef9215747e8858bee2a9ec978595cf48ff7c949131a53a8206046900",
+    "timestamp": "2016:03:19 20:30:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203036.jpg",
+    "phash": "b551a782db6b6494",
+    "sha256": "ed9f8830825c0152e5da7ff310d17e1efb074f31733a3fe6ae01b046a638ad4c",
+    "timestamp": "2016:03:19 20:30:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203047.jpg",
+    "phash": "99634a5b519ea5a5",
+    "sha256": "72a04e65074457fd43849ba11aef43ffb1601b545da5af54a20d184c95f53fa8",
+    "timestamp": "2016:03:19 20:30:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203102.jpg",
+    "phash": "f190ceec460b9975",
+    "sha256": "1d60b5578307bba6a2acfeeebadea96e0e91e62d13a8db9c726615b957bdfc16",
+    "timestamp": "2016:03:19 20:31:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203108.jpg",
+    "phash": "b0508bef6c32b34d",
+    "sha256": "1b0abbd66c1555ce709bb4b4c6268867e6da35afcba8c5934ee0c4ecb568a052",
+    "timestamp": "2016:03:19 20:31:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203128.jpg",
+    "phash": "b24686f85f27b650",
+    "sha256": "38340f3992d2f632596b91a77c6b9ee034960c39ec24218c469d93bde095253e",
+    "timestamp": "2016:03:19 20:31:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203132.jpg",
+    "phash": "b2538efd4f221278",
+    "sha256": "524bb2e50f3a1df3dec3f4980cd908c371478b0f11c8f0a6425554bcfa517434",
+    "timestamp": "2016:03:19 20:31:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203140.jpg",
+    "phash": "b632d9c930f42ed2",
+    "sha256": "239c138fc91accb518074acf8bb706b6ba7ad75c74d33aa5cfe595c05768afb1",
+    "timestamp": "2016:03:19 20:31:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203143.jpg",
+    "phash": "c50df3d21c8ba1d5",
+    "sha256": "7ff7a9352be3c7ac2db55aff5d67b1edbdfad55e988f1949a88fdcfe8e98f805",
+    "timestamp": "2016:03:19 20:31:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203413.jpg",
+    "phash": "9a62ad0df0b6c70e",
+    "sha256": "19c1285bff58ed35a503a5577ee14ee3823024bf74fc64e20ce60feb200ac43d",
+    "timestamp": "2016:03:19 20:34:13"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203423.jpg",
+    "phash": "96628bdaf485cb68",
+    "sha256": "af0564b5ba16db3e9c0a0644709b0c07867a70805a4e959afd57f507837b142e",
+    "timestamp": "2016:03:19 20:34:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160319_203454.jpg",
+    "phash": "e931f2689ddb6007",
+    "sha256": "ddd144dd8975b11e0be4ebe085cec96fedaca476cf4bfcc8e64578cdb5b10feb",
+    "timestamp": "2016:03:19 20:34:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_184832.jpg",
+    "phash": "b04cb90df2a06db7",
+    "sha256": "f2ecfd75c997a7b612341111adc675a2af26499a5bfc4aac6fccfaa1c582047d",
+    "timestamp": "2016:03:27 18:48:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_184835.jpg",
+    "phash": "9568b117f26924b7",
+    "sha256": "1c3be133db6b4ee61bc7420b41a1e01e00934289ef88ecb7ae5d1a5ba45e01e2",
+    "timestamp": "2016:03:27 18:48:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_184843.jpg",
+    "phash": "936907fd112dfc82",
+    "sha256": "ff9e89d1228a61262c062756aad93d707081d9bbe98dd53c3602c0feac2b91ad",
+    "timestamp": "2016:03:27 18:48:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_184848.jpg",
+    "phash": "9b2d6c914f7083d6",
+    "sha256": "3dbd6ef4a60bc2d7d5cf28eaadcc22e14156090d26307d09476c63e64d18842f",
+    "timestamp": "2016:03:27 18:48:48"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_202454.jpg",
+    "phash": "d2b553cb3c7c84c2",
+    "sha256": "f1b72a3ae6785da1c45a1bef70ec7c8f54e662b2ef0f3d77e6e3af48e9699d79",
+    "timestamp": "2016:03:27 20:24:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_202506.jpg",
+    "phash": "da2d2fc33c788686",
+    "sha256": "f43d8be2ffdf69d00450fd48b156210f482b3c283dba2c50c5102c8103606550",
+    "timestamp": "2016:03:27 20:25:06"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_202521.jpg",
+    "phash": "daa539ca9c61279a",
+    "sha256": "e879c153d1570387330a1931fc2f5014200cb90ed008a1f4c48104f432100653",
+    "timestamp": "2016:03:27 20:25:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_202618.jpg",
+    "phash": "d56862977b688794",
+    "sha256": "c43428b7179505b6ec28e8bf5269657839ffd8ec38b3d24a86c54c4f61c973b0",
+    "timestamp": "2016:03:27 20:26:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160327_202627.jpg",
+    "phash": "d56866967a4e8197",
+    "sha256": "9698884f07c9d7cb6f46c8e4a054e7aa0e682c65538c66505210e10da4da709a",
+    "timestamp": "2016:03:27 20:26:27"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120217.jpg",
+    "phash": "c060a69de94af8d7",
+    "sha256": "fdcfdb35b2caf6b60f70914c0dce5d8a3a7798a8bbe20200c0881825615f4d1b",
+    "timestamp": "2016:04:08 12:02:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120300.jpg",
+    "phash": "d963a6c88d7cb119",
+    "sha256": "590c1041dfe6a62d001ef44706ffc2fea912fdc9ecd0eed8c1833b5447729c1a",
+    "timestamp": "2016:04:08 12:03:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120323.jpg",
+    "phash": "db63848e1e71299d",
+    "sha256": "298c89f717de0a3460acd1df33a2cef55d2b462265400fa6335bf072cadd5456",
+    "timestamp": "2016:04:08 12:03:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120402.jpg",
+    "phash": "c965e60e1f0a8f74",
+    "sha256": "80bb629d00de69bf96233d4d57521945932b9c828243ab37f17a541f11f393f5",
+    "timestamp": "2016:04:08 12:04:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120427.jpg",
+    "phash": "98700f09d233fdc7",
+    "sha256": "2f4e0b03950be48f5c88e4e0bc9595df64f820718a5a99a4f374dade66dba858",
+    "timestamp": "2016:04:08 12:04:27"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120511.jpg",
+    "phash": "9961169fe5299e43",
+    "sha256": "12d92ac6e3dca1f82edc64cb4501cb2371e9dcec837f2f58878167a9e55db1e6",
+    "timestamp": "2016:04:08 12:05:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160408_120543.jpg",
+    "phash": "c975a20e34c2cfe6",
+    "sha256": "c3bb9c9d91fa38cd09aabd7fc54b7123f4ca81ef4e56a267c820d969de972721",
+    "timestamp": "2016:04:08 12:05:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193914226.jpg",
+    "phash": "8a8595d272be487d",
+    "sha256": "fab0326db13bc1ea774a1ec623852897f3fa309decf880fc5253eecc2ec7dd33",
+    "timestamp": "2016:04:23 19:39:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193916058.jpg",
+    "phash": "8a85859373535e6b",
+    "sha256": "25be9706a3d3d3cf00fca57b326b257d35e949ce6c8e43a66e601c076962ed26",
+    "timestamp": "2016:04:23 19:39:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193936650.jpg",
+    "phash": "df80d2a2227b5c7c",
+    "sha256": "8697ee1dd8c931352670bd6f62b8e58c9db0cb627b345b83f4211af2f12eda5c",
+    "timestamp": "2016:04:23 19:39:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193943783.jpg",
+    "phash": "aed5d1393a4e4623",
+    "sha256": "f3329bffd36c791fef23c39ef8a613c7c90a98fb443ff5cba5e4c044237d7b69",
+    "timestamp": "2016:04:23 19:39:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193957819.jpg",
+    "phash": "c592aac8303b7f4e",
+    "sha256": "18b4e651e71c24229e4e7ac2ec6aa85b47bfaba97313ddd61a9ae59d1108d2b6",
+    "timestamp": "2016:04:23 19:39:58"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_193959410.jpg",
+    "phash": "cd92aa8830737f4e",
+    "sha256": "e9f12e6736eb242c4c3fe27ff6c29d7a6650e10774462bbcccb7761c94e7522f",
+    "timestamp": "2016:04:23 19:40:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194142201.jpg",
+    "phash": "8df4cdd13386344b",
+    "sha256": "0b3f16220889420d7b0077745e3891d7cfcbcc4a618c1f7159e942fd4bf6f31f",
+    "timestamp": "2016:04:23 19:41:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194208976.jpg",
+    "phash": "e91c356b2716e2aa",
+    "sha256": "b2751704d8400230f5ab096ad316e9219d062e2d6379eb24c376328a8e880a7b",
+    "timestamp": "2016:04:23 19:42:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194217415.jpg",
+    "phash": "da5bb550454b366a",
+    "sha256": "4c3dda5548f67849318fed031b62cf1e1d974c757f353fffc024cd215197ad0f",
+    "timestamp": "2016:04:23 19:42:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194218931.jpg",
+    "phash": "d95bf4506b2ba464",
+    "sha256": "ce4e8d5eb9a6943f7fefc28145abdf598f157f7d36eb1309d016d538b1806dc6",
+    "timestamp": "2016:04:23 19:42:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194510683.jpg",
+    "phash": "d4a2ffd2388f2268",
+    "sha256": "749af0ccd819a29e1e5f3107305f8741800c32342a68793725c869bfc6417a92",
+    "timestamp": "2016:04:23 19:45:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194512357.jpg",
+    "phash": "d122fed6398d2278",
+    "sha256": "8ab1a9708a702e33f40e52df204ea780350880a69bd5808f9a8b490a7845b990",
+    "timestamp": "2016:04:23 19:45:13"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_194514128.jpg",
+    "phash": "d122ffd6398d2268",
+    "sha256": "894a3e9c9e07efd03acf7ba68886ab3308f750e1b1ae708a9eb85c0291c52e77",
+    "timestamp": "2016:04:23 19:45:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_202853779.jpg",
+    "phash": "eac3cb9784fc8990",
+    "sha256": "b4553e2cb1e605d9fb930eef7480d4e8e9126c90d8100d76c619baf7622d5291",
+    "timestamp": "2016:04:23 20:28:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_202855653.jpg",
+    "phash": "ea82db9784fca930",
+    "sha256": "6fe14e7090f1512705f7ecfd5c1438111a6e6e6a74e184f9d03764074a7b7c66",
+    "timestamp": "2016:04:23 20:28:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_202902607.jpg",
+    "phash": "fbd98486a6ced114",
+    "sha256": "0e42ac97ea94b2edfdde5273603b04c5b9fb7abc44b938b200adfde2915ca914",
+    "timestamp": "2016:04:23 20:29:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_202904538.jpg",
+    "phash": "fbd98486a4fd7110",
+    "sha256": "73474ec01d9e860cbfda9876410c7885c5af92c66cbb0a5e7bf29dd8d44d764a",
+    "timestamp": "2016:04:23 20:29:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160423_202906187.jpg",
+    "phash": "fb838d8ca4ff1114",
+    "sha256": "173db0611841be61ff3e272a0e1da4c8149cddf966a3dfe93f5ea8ea3a980943",
+    "timestamp": "2016:04:23 20:29:06"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160602_094208.jpg",
+    "phash": "8a2af5178ae11fa6",
+    "sha256": "8ed6ef79c871fbf09cdd08112edead6db85f3455674d8c85cb711e1325fde000",
+    "timestamp": "2016:06:02 09:42:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160602_094230.jpg",
+    "phash": "853da6279ee219b4",
+    "sha256": "a3f236655ad8413523ccee13b76a9d64ef77cc768ca3944e5ced5e183740b7ea",
+    "timestamp": "2016:06:02 09:42:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160624_075308.jpg",
+    "phash": "e0314cecb371af26",
+    "sha256": "5afb41d0bdd302d97e15cd404b066b31c77bd10ef15d9d1f76d949fd3dc2907f",
+    "timestamp": "2016:06:24 07:53:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160624_075314.jpg",
+    "phash": "c12358e837792f66",
+    "sha256": "ba680317b9182c9b25828684dd23d16f1a58dd4befeb348acf9b41ac47f0c430",
+    "timestamp": "2016:06:24 07:53:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160624_075316.jpg",
+    "phash": "c12759e8b7721b23",
+    "sha256": "8a6e273995f6b323d9cac1b64e5ae47760f77b25f78adf8dabac61be4268414a",
+    "timestamp": "2016:06:24 07:53:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160624_075318.jpg",
+    "phash": "c12348ec37784e6f",
+    "sha256": "446ba88067e0586e0bc57a7102ea56953711c220dc5baf8e01dfbab37cbacab4",
+    "timestamp": "2016:06:24 07:53:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160717_114555.jpg",
+    "phash": "ea328382bf9368ba",
+    "sha256": "363d54f61cb08f9bf334d31e010f0ac0280502a76b3b528f0a0b878c7989ef74",
+    "timestamp": "2016:07:17 11:45:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160717_121427.jpg",
+    "phash": "c3c1c03a3f2bba6a",
+    "sha256": "9628d93ba82d8613f5d643d9d8cb572589aa22cf7722c77458c32495333d8139",
+    "timestamp": "2016:07:17 12:14:27"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160717_121437.jpg",
+    "phash": "e6c3dbf8001b839e",
+    "sha256": "fbedde6ee3b7e2bd7f676c7f4b440b3dd40695a4c1f707681fd09693e7572535",
+    "timestamp": "2016:07:17 12:14:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160917_073427.jpg",
+    "phash": "8d67339462d29d69",
+    "sha256": "c452b8dd4bc83c0e485f980d158f8c720f54bcc8e955a42ff212d8ab0f88fc52",
+    "timestamp": ""
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100242963_BURST000_COVER_TOP.jpg",
+    "phash": "ff8483953648293f",
+    "sha256": "6ac84d23cf0c94ecd3ba6bdc082f82c702483f1570b91b3cfe97643355869f02",
+    "timestamp": "2016:09:18 10:02:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100246274.jpg",
+    "phash": "ffa48391346a293d",
+    "sha256": "bf77f772ea41353fd9782b55de78bcf32361edb2523776b080c9ecbef795a3e1",
+    "timestamp": "2016:09:18 10:02:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100252794.jpg",
+    "phash": "ffa4839574483897",
+    "sha256": "d69d3abd27cbb0e3fd4799b55afc6a47d1f45b22bb0738b1d6f812953f8a4713",
+    "timestamp": "2016:09:18 10:02:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100300273.jpg",
+    "phash": "ff84c0c23e6f2d30",
+    "sha256": "f44a3071130d1100aa42fa86c33801949f7a4b40699e595afad50bf805ccf7d1",
+    "timestamp": "2016:09:18 10:03:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100554526_BURST000_COVER_TOP.jpg",
+    "phash": "832ae487bcf427b4",
+    "sha256": "c84a5fb62b06ea41c2c051e455e059a7be8a2e879a62de37393da45de39581e0",
+    "timestamp": "2016:09:18 10:05:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_100602516_BURST000_COVER_TOP.jpg",
+    "phash": "882ff4979cd0d496",
+    "sha256": "313b74a65c28e4313e2bb81e382464b4578e59e36c6c71549201b32f8c73b105",
+    "timestamp": "2016:09:18 10:06:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160918_201209317.jpg",
+    "phash": "b3b3195994aa1e4d",
+    "sha256": "c52eaf168b96b5420926bb3a4e0e2bdf2576091480c3ba7f61a2ca878567ac6d",
+    "timestamp": "2016:09:18 20:12:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160919_081741634.jpg",
+    "phash": "b1668a9a61175bdc",
+    "sha256": "1bf173449ddd455ccaffbca7b09850daba44ad1cddabf0c7e888cab95fd04a46",
+    "timestamp": "2016:09:19 08:17:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20160921_164456958.jpg",
+    "phash": "95342e0af987cbd1",
+    "sha256": "cf6b33e56e531cddd451259d560424ad333da1eda8f998a7a515956ef1ce45a5",
+    "timestamp": "2016:09:21 16:44:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161002_121427663.jpg",
+    "phash": "ce729cd2d3941eb0",
+    "sha256": "d475e3e1b5cdc2a37fffbaad2994ce3e6329cb9561c09ef5cd6bfdaa0eb8fda6",
+    "timestamp": "2016:10:02 12:14:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161002_121434921.jpg",
+    "phash": "ce62b33cc33bd0d0",
+    "sha256": "bbde2033f911ca02a3e9881b1831a2250f83d1ccb606d7e85e5a01dae4e29b59",
+    "timestamp": "2016:10:02 12:14:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161002_121438227.jpg",
+    "phash": "cc62b23cc173f2e8",
+    "sha256": "69075d37bc0c8b60e4473ef9cc2f18fce6a9977581f80a7666f13c51ecfc2b16",
+    "timestamp": "2016:10:02 12:14:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_103607528.jpg",
+    "phash": "abc29c6349eccce1",
+    "sha256": "baa201d34a67056cf1e2a519f6a30c3c1984695d43d593e6c71c3d3219514ae5",
+    "timestamp": "2016:10:08 10:36:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_105719390.jpg",
+    "phash": "a2f955c6162969e6",
+    "sha256": "8ac31b2884c276c01b159e077600dbdc19ad338b32ab2663cd4726c41b0687b9",
+    "timestamp": "2016:10:08 10:57:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_105722327.jpg",
+    "phash": "a2f855d6522969e6",
+    "sha256": "e8596720deb9b7a28d3aa1b57bb6eccb8e360029fcd883b71216406d6fec3cda",
+    "timestamp": "2016:10:08 10:57:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_110810929.jpg",
+    "phash": "da21167658aee1c7",
+    "sha256": "1fd1e2aa4388492ce538ace99f205e67118fa620e51f9c458f81e0c415f0ba86",
+    "timestamp": "2016:10:08 11:08:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_110825440.jpg",
+    "phash": "9829066358de7caf",
+    "sha256": "6793c0eae5a058e51cc24daad7616a6956a978dde68f01c7851be23ee034cd5f",
+    "timestamp": "2016:10:08 11:08:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_110903339.jpg",
+    "phash": "d67883735e872cc8",
+    "sha256": "83976e31ac2a2c102e1f37e2b4bd5ddaaf2618ba758e267c8546e6ca6901b8f9",
+    "timestamp": "2016:10:08 11:09:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_110937352.jpg",
+    "phash": "d46117477b9c2d49",
+    "sha256": "7a6cc654ffc444c33a067a4394bad5cde1273bb1b91244046acffb41ee3966ef",
+    "timestamp": "2016:10:08 11:09:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_111830586_BURST000_COVER_TOP.jpg",
+    "phash": "8b6d6566c39cc895",
+    "sha256": "8c920c1ef4a6c2a96da0dae7dd3c50c6f8cea690869a67ba5752b5aac6f044b6",
+    "timestamp": "2016:10:08 11:18:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_112317758.jpg",
+    "phash": "996b1746185c3be5",
+    "sha256": "b65c69d12b8399a2fed3608a4216e3c1708814859cc46731e98ec277455f6fa2",
+    "timestamp": "2016:10:08 11:23:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_113916661.jpg",
+    "phash": "cfb0f886918ee435",
+    "sha256": "f626995486452edbb90c90fd73c155e0154b7847cd82a20b3d2c2d22e51ee5c7",
+    "timestamp": "2016:10:08 11:39:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_113928154.jpg",
+    "phash": "c73854b8a9b563ca",
+    "sha256": "212486d9b29b5eee7120e0be99d9e1c088a88564fc7f17be2ecc672f7fb1334b",
+    "timestamp": "2016:10:08 11:39:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_114036870.jpg",
+    "phash": "bef15a561bb4a0b0",
+    "sha256": "e2f095757fd70a7f1b572b00e44c573a53a73864e24c577cac6fbec6ca3eb226",
+    "timestamp": "2016:10:08 11:40:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161008_121653523.jpg",
+    "phash": "941e6b485b92756d",
+    "sha256": "767f1a09f62b9b0dd168b4b4d9063d06d139552d8f35184dd73aab024e0b2b77",
+    "timestamp": "2016:10:08 12:16:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_205236680.jpg",
+    "phash": "e13cca0da1f8d68d",
+    "sha256": "73fcce6c89811048c96d3a6180f4a78d35f671f411f9cc1ef734845deb038bc5",
+    "timestamp": "2016:10:10 20:52:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_205332090.jpg",
+    "phash": "93a59fee714a022d",
+    "sha256": "06ac8f857228a59280ba7371b29f96ffd63b2c4e4e38c5c3f3ef0659d0b227c9",
+    "timestamp": "2016:10:10 20:53:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_205334172.jpg",
+    "phash": "87a19fee714a022f",
+    "sha256": "bf028329877b9f2293ca691001c375f75aa30519dfcc8a9103c06d2e95737a45",
+    "timestamp": "2016:10:10 20:53:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_205336244.jpg",
+    "phash": "95a49fef704a022f",
+    "sha256": "dbae36c42387f4fb29541fb73fa15faea2288e77df0ecd0b5e01a059433a0e64",
+    "timestamp": "2016:10:10 20:53:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210835730.jpg",
+    "phash": "e6194c3618e0ef76",
+    "sha256": "fb38fb218c1578765e963340511a700ea2415234f826fefd514b56a43bdd354f",
+    "timestamp": "2016:10:10 21:08:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210839907.jpg",
+    "phash": "e43148b619e3e37c",
+    "sha256": "7893fcd6e320fcb3848c585e13fd751ed85ab4b146df557b4e1f606db32b58c2",
+    "timestamp": "2016:10:10 21:08:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210842296.jpg",
+    "phash": "e43140b619e1edfc",
+    "sha256": "58cecd61d7936f92513cf4493d4468a9d4237cf841ace6287dd96d55805bbdde",
+    "timestamp": "2016:10:10 21:08:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210845703.jpg",
+    "phash": "e63940b619c0e6fe",
+    "sha256": "c71764f7d55b2875e96879e2bbfbd6bbabf34fb20354d30c8a00437a667eb373",
+    "timestamp": "2016:10:10 21:08:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210850052.jpg",
+    "phash": "ec3148b619c1edf4",
+    "sha256": "f33dce10f35e24e5a269eef114e258b9456ae4462f14c060af31f9d89a251347",
+    "timestamp": "2016:10:10 21:08:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210859803.jpg",
+    "phash": "ec33483619e3e9b4",
+    "sha256": "cd1dd43494b69ae2bd82ed54bdda9a9a02f6eae50dcd0a51b7f92ffd3ae5a0c5",
+    "timestamp": "2016:10:10 21:09:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210927848.jpg",
+    "phash": "ee325b4c1017e6f8",
+    "sha256": "fb6a16ab381c9f2e68c2558629144ab330cc049cb0db82d31bb250c4d5d73848",
+    "timestamp": "2016:10:10 21:09:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210930735_BURST000_COVER_TOP.jpg",
+    "phash": "ee325bc41803e7f8",
+    "sha256": "a99a926f435a91ebab0aa70f1c8faa46201fe7cccdc6686b7421774f994d8b0b",
+    "timestamp": "2016:10:10 21:09:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161010_210933859.jpg",
+    "phash": "ef325b4c1101f6bc",
+    "sha256": "1e61221637c7324139f03c53b6f053c67d23e454681cb615e6edaa00954cbf3c",
+    "timestamp": "2016:10:10 21:09:34"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111845784.jpg",
+    "phash": "b4c0ec4ac53ccb3d",
+    "sha256": "fe479b227da8e7e6f88cfaf6cbed80bbf7f1cf6ff04f2f8ad24cfe128b233672",
+    "timestamp": "2016:10:11 11:18:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111851453.jpg",
+    "phash": "a5d2ec49c62dda29",
+    "sha256": "fb736ff3041a5e0c2495a63dadc0636821fa57a182f35bb925790c7a8793a437",
+    "timestamp": "2016:10:11 11:18:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111856083.jpg",
+    "phash": "a54be859c331cb3c",
+    "sha256": "f08d7a729d8529c3f47863c5b2b6d08b41d301fc1c2f9597fc28618c9b4ffaf0",
+    "timestamp": "2016:10:11 11:18:56"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111858578.jpg",
+    "phash": "a54bf849cf31cb30",
+    "sha256": "d102f013e9178edd5ddfb8f191e205d4b81442894540eab9caa5e3669e27dc37",
+    "timestamp": "2016:10:11 11:18:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111903869.jpg",
+    "phash": "b449fc49c331cb36",
+    "sha256": "379b053aae90fb1057c00b1817ea1221cfe5a5b20d0064ac64ca3304ec5f7747",
+    "timestamp": "2016:10:11 11:19:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111909616.jpg",
+    "phash": "a54ec1599269db2d",
+    "sha256": "54ef34a21c261ac5f87b30ef942e0f7ac48b95d1a6e219b6895feefc60a18c58",
+    "timestamp": "2016:10:11 11:19:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111912256.jpg",
+    "phash": "a44df259c339c93c",
+    "sha256": "f94d3d9ec556e5a65dd7db8680a5be03030f8ad2dd6cb69dac46b32c22531b3d",
+    "timestamp": "2016:10:11 11:19:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111915811.jpg",
+    "phash": "b54bf049cf31cb30",
+    "sha256": "bd6b810103422140ecfee57978d64ba27ee7837a78a6eb129c45a72f091f994a",
+    "timestamp": "2016:10:11 11:19:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111917798.jpg",
+    "phash": "b449f849c734c93e",
+    "sha256": "9cf4afd48a05e0b0c1d32d4eaf7f35792cddd74b5fa495969e8cf7adbc27299d",
+    "timestamp": "2016:10:11 11:19:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_111918905.jpg",
+    "phash": "a549c65dcae1d931",
+    "sha256": "67be01987ba065ccbfa1caebfff4fc8bc19a66b489aec3f0960e0c05055142b4",
+    "timestamp": "2016:10:11 11:19:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112004976.jpg",
+    "phash": "b441ed5aa13eda2c",
+    "sha256": "43c85711c4767b6610d870db5f74f31ca08886bfffaa39b48ab28903ab2a23a6",
+    "timestamp": "2016:10:11 11:20:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112009157.jpg",
+    "phash": "b5c1e952a13e5aac",
+    "sha256": "2b2da967c3d4fe1b0ca6314188981acea379c0eb775a8368988e911672a2d52e",
+    "timestamp": "2016:10:11 11:20:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112016941.jpg",
+    "phash": "a19aea168b78dc2b",
+    "sha256": "b217670fe0c8b8e6fdfef7cf0ad2fd113ea785d3eb72fa853afb4b6ad5e82691",
+    "timestamp": "2016:10:11 11:20:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112230165.jpg",
+    "phash": "8cc4d962f23d6f18",
+    "sha256": "b50390427d04bce730fd3cb1d647b71eff7c08e000e7bea277ef775b14df637d",
+    "timestamp": "2016:10:11 11:22:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112237305.jpg",
+    "phash": "8c44d846e4bfc36b",
+    "sha256": "40ee66ef40395e80196c190096cf0791aefa0ed86751c31c40747351ab136a31",
+    "timestamp": "2016:10:11 11:22:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112240355.jpg",
+    "phash": "8c549862e3b1e773",
+    "sha256": "202fa134c3b6e2d80d57e3a1af8ff7c21878a91edf4b99ac24febb6d25d160da",
+    "timestamp": "2016:10:11 11:22:41"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112242901.jpg",
+    "phash": "8e6edc76e2b0c129",
+    "sha256": "7adb3ae863f42ce57a401db3c97433d1468c6de3eed988feba71cb49ba6d39b3",
+    "timestamp": "2016:10:11 11:22:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112246090.jpg",
+    "phash": "8e6edc55e390c42d",
+    "sha256": "665a5add1d852ffd1f38b62351a2e87509a7b083e5e2950bd19b4982b00b262b",
+    "timestamp": "2016:10:11 11:22:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112247904.jpg",
+    "phash": "8e70dc46e294c72f",
+    "sha256": "124d89a93c57f0ad627245d53b1e4951a949032f1f1095c1a8cac83c48051d35",
+    "timestamp": "2016:10:11 11:22:48"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112304860_BURST000_COVER_TOP.jpg",
+    "phash": "85996be1b15547c6",
+    "sha256": "7c590bcdd38e473ec722ac6bcccbf07d9f19278d9d9b512860d203ae2e4cc2e7",
+    "timestamp": "2016:10:11 11:23:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112307991.jpg",
+    "phash": "8c9d46f4b5c84be2",
+    "sha256": "62e59a95d7367bf622e50c73f9da8486a6ceaf5122c1c258b48029abf831b586",
+    "timestamp": "2016:10:11 11:23:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112311646_BURST000_COVER_TOP.jpg",
+    "phash": "8c9d42e4bd7dc462",
+    "sha256": "bc937ecd84df99a0ab0b6499fe7116523a9d580356430f645f4542e455295cc5",
+    "timestamp": "2016:10:11 11:23:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112313094_BURST000_COVER_TOP.jpg",
+    "phash": "8c9d7e75c9c09487",
+    "sha256": "c21222afccccd5afb5df956420298b68f05635b1e4e88fbe0c5a70deafaeb219",
+    "timestamp": "2016:10:11 11:23:13"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112340117_BURST000_COVER_TOP.jpg",
+    "phash": "b0c369802ad6ef3b",
+    "sha256": "24cfcbb4aa78956b2530d013f002ebd312fa4a4b0f4aec3d3d0621186d24d63b",
+    "timestamp": "2016:10:11 11:23:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112343003.jpg",
+    "phash": "b8e0619123f6a67b",
+    "sha256": "cf1581493a46a06f409e6810aa9f740daaee172e32f61354dad17715c744565f",
+    "timestamp": "2016:10:11 11:23:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112345298.jpg",
+    "phash": "b8e065918ab66e6d",
+    "sha256": "deeb19244ce2725b3b138075998faca3f7b7d237d719655f36dfc123ea563cf2",
+    "timestamp": "2016:10:11 11:23:45"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112353057.jpg",
+    "phash": "bbe365918286672d",
+    "sha256": "fc5a5b325ed3a7a9e299e3634b22c3c906301a43a33a6d91e40101dc070e23b0",
+    "timestamp": "2016:10:11 11:23:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112405019_BURST000_COVER_TOP.jpg",
+    "phash": "a0e97090b6a6e73b",
+    "sha256": "74469d1b038e6d97ce8dbcaa0a428ad8e758783742d977dacf0e5d257f21749b",
+    "timestamp": "2016:10:11 11:24:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112655676.jpg",
+    "phash": "ae04c65bc97d984b",
+    "sha256": "ea8fd05d76681d3892e7dde4fd59d4e3acd2a6e7b09bc99161092f37af00673e",
+    "timestamp": "2016:10:11 11:26:56"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112717200.jpg",
+    "phash": "8e84de1bc13fc227",
+    "sha256": "65330acf0af0ecf7d09372df18abff26e92de3b2483a9f9e740eb473c7f3e979",
+    "timestamp": "2016:10:11 11:27:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112723355.jpg",
+    "phash": "8e86ce59c93dc266",
+    "sha256": "94cda220c3bb36133d06e5c4ea536d2f65d57cd950f60e25cfa189a3085391a3",
+    "timestamp": "2016:10:11 11:27:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112814828.jpg",
+    "phash": "a55fe2789a69d04a",
+    "sha256": "424e650184711e5825680e7fa4e454cf07f481f80589000c010c5bd4d7c36037",
+    "timestamp": "2016:10:11 11:28:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_112830417_BURST000_COVER_TOP.jpg",
+    "phash": "a51e8c659c0eb3d3",
+    "sha256": "779776fa462a5ddc4850d2aa3adb0018132b656f4ff5c83d94b7966cb33a3516",
+    "timestamp": "2016:10:11 11:28:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_132905185.jpg",
+    "phash": "c62e69d598382767",
+    "sha256": "cebb0ceefe881fcbb4ce73226f27e727bf36d401a8a57fb1901865c36aa75bee",
+    "timestamp": "2016:10:11 13:29:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_132917864.jpg",
+    "phash": "c22f3cd0b067af45",
+    "sha256": "c406d4396b965e5d99230d96a0f8c48c393deac3ac43a799b834456d21919072",
+    "timestamp": "2016:10:11 13:29:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_132924673_BURST000_COVER_TOP.jpg",
+    "phash": "932c6cd39365aa4e",
+    "sha256": "31ada902b0140b0a8bd2c5a02fb44d992b99e8034bb8fdf97a1cdd8764e1a45e",
+    "timestamp": "2016:10:11 13:29:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_132931973_BURST000_COVER_TOP.jpg",
+    "phash": "d3236c9c183abf45",
+    "sha256": "0df2dd3b8deddd5433136176d8e670ad40fa536d8add73eee6cf1a8dd1eb5c0b",
+    "timestamp": "2016:10:11 13:29:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133010619.jpg",
+    "phash": "b0f8cbc6c6679119",
+    "sha256": "0541af6d12fa7e1fc637d97824488f5030273089e93ee0c14808855aaa225ada",
+    "timestamp": "2016:10:11 13:30:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133017588.jpg",
+    "phash": "f19397cc4cacf203",
+    "sha256": "2de59d6eeb66f4146995d2151041d4dd328584e9449052415521c8d9d9d1df43",
+    "timestamp": "2016:10:11 13:30:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133024570.jpg",
+    "phash": "b1918bcd4c66ae1b",
+    "sha256": "e7ddd1b380d376883327719f35ee2da60dcaac4fb67bcb1fca4e72b30ef8a81c",
+    "timestamp": "2016:10:11 13:30:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133122130.jpg",
+    "phash": "ae85919b13da7925",
+    "sha256": "849a75263c5e8bb4ec0e30f28dd964b3356416fdef599817bb02d45abe79b86d",
+    "timestamp": "2016:10:11 13:31:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133125244.jpg",
+    "phash": "a3b29a8d4cedc692",
+    "sha256": "f63de6b1e51312dc7114688d542aafc24db7c5d09a72c8cdd13732929fa09a62",
+    "timestamp": "2016:10:11 13:31:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133157101.jpg",
+    "phash": "a3b3139bcd4ccc1c",
+    "sha256": "5ac7f804ac01939997d2ca59511073b7ed1034fd4233e8cb9ec61277a511356e",
+    "timestamp": "2016:10:11 13:31:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133202728.jpg",
+    "phash": "b1910dccce46ee4e",
+    "sha256": "0ec3f4bd13fc805f9d3f0a8f5463965a222252982ece02010e7c727c36d8f70c",
+    "timestamp": "2016:10:11 13:32:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161011_133211467.jpg",
+    "phash": "ac8511979e1ada73",
+    "sha256": "96bddee6d831f21fec18491abf3dcc690bd6776cf87828351b316c3dec859194",
+    "timestamp": "2016:10:11 13:32:12"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161018_195032570_BURST000_COVER_TOP.jpg",
+    "phash": "951d1adb2fc6608e",
+    "sha256": "7a7bf265b2ff747edbca90b68a950faadb27a99af18201b85d304638cdc5a945",
+    "timestamp": "2016:10:18 19:50:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161018_195057530_BURST000_COVER_TOP.jpg",
+    "phash": "b39c35d69989c4d4",
+    "sha256": "177075e18ff38ddc69983e1576fd1c1b997baa7befc015e47d6d07e4ba1b7425",
+    "timestamp": "2016:10:18 19:50:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161018_195102536.jpg",
+    "phash": "959d06d1c9664e3b",
+    "sha256": "8379c5abd1de0ba056025e75da55ca442ed6324470710e476dceb52dbf9c93d4",
+    "timestamp": "2016:10:18 19:51:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_102042957.jpg",
+    "phash": "b3c886a66f009bbd",
+    "sha256": "2d77f7b95a3fb41c031b3402f427391dfe7804cf9908b32e644760cbaf90569b",
+    "timestamp": "2016:10:22 10:20:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_160558797.jpg",
+    "phash": "e1611cdccae2e5d4",
+    "sha256": "4f38afe6a771574e4cc6ec63911baa49111681d0c8ae0d1980f33beffb68a529",
+    "timestamp": "2016:10:22 16:05:58"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_160602281.jpg",
+    "phash": "f93944c6cab8b1c5",
+    "sha256": "f39e81d34372f5abe8f11d2a7bf4449141f2c210821de6cb1fadaf07f7a0ac6c",
+    "timestamp": "2016:10:22 16:06:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_160604821.jpg",
+    "phash": "e3610cdcdaa2b1d5",
+    "sha256": "db062facc3e5f6dc6ff9207ff832d7e5cc1084d4672fa200436fd7afb4665085",
+    "timestamp": "2016:10:22 16:06:04"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_160634419.jpg",
+    "phash": "e633174b29a524d7",
+    "sha256": "81123100ca2a511becfdb53ba09ec41f7857e31778374b67a26ef5d6fed0b911",
+    "timestamp": "2016:10:22 16:06:34"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161022_160635637.jpg",
+    "phash": "e637174b29a524d6",
+    "sha256": "9d70e796ff53608d49996a1b1d974be7144bd05d24a358dbe3cbf5df2fd72db6",
+    "timestamp": "2016:10:22 16:06:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201750241.jpg",
+    "phash": "b367cd86c039d8b4",
+    "sha256": "2c4a20de9c660b55374d32e76ae5fa5febf1eb50ef43a9a32f7912dad6a5695b",
+    "timestamp": "2016:10:23 20:17:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201753251.jpg",
+    "phash": "ba75cd82d01dde22",
+    "sha256": "10e0706040c6b14d05a28501cf5d789e955a3bb39d295fbfdad402456b5c1317",
+    "timestamp": "2016:10:23 20:17:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201754723.jpg",
+    "phash": "b365ed82c019dce6",
+    "sha256": "990d0a0bc0eff4a997f29f38c8a0dec7454f682309302ab4656282174d20e2af",
+    "timestamp": "2016:10:23 20:17:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201758460.jpg",
+    "phash": "9367e986c03bd8e4",
+    "sha256": "f375c4726a95b8206cc82bb2a93a589f93c29f5776ccfb8e57df9d80f0d2c5a2",
+    "timestamp": "2016:10:23 20:17:58"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201815679.jpg",
+    "phash": "a957c681cb3cec32",
+    "sha256": "fa5c649ab4e30d8254f0043487233b318feffdafd10f1a34dc7bc13a4efd7ed7",
+    "timestamp": "2016:10:23 20:18:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201817419.jpg",
+    "phash": "ab56c483c33cfc32",
+    "sha256": "c4a49a7fdfb594d6d0c15f4f08eb732fd41df91e9840c1d19f276a751439158b",
+    "timestamp": "2016:10:23 20:18:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201821156.jpg",
+    "phash": "ab56c48bc339ec32",
+    "sha256": "757578eafa1d1b4ae872f8a83cec814f726bb94bcb16dc1473e0a4fcee428542",
+    "timestamp": "2016:10:23 20:18:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201822621.jpg",
+    "phash": "ab56c48fc339e832",
+    "sha256": "909520eb0b9722b8c3b328aeee3e5841e80ea12ec8054d8c4aa6c3683b55f78a",
+    "timestamp": "2016:10:23 20:18:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161023_201830264.jpg",
+    "phash": "a6c6a48e6b0d78ab",
+    "sha256": "17900aa02eda8d57fb854f3086a30a0aa3fcb2bfae1501f19f874e284301eabe",
+    "timestamp": "2016:10:23 20:18:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162700119_BURST000_COVER.jpg",
+    "phash": "926d1d7386cb619c",
+    "sha256": "3d4396ca4ce8d53a1ec97cacf822c04f3569d0d88e415f84b9d5edce16c53f57",
+    "timestamp": "2016:10:29 16:27:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162702514_BURST000_COVER_TOP.jpg",
+    "phash": "926c1d7386c769b4",
+    "sha256": "4347f9905ae9e805914674bfe64025365c2556e8e2c4a39739987cfdef5b5f8d",
+    "timestamp": "2016:10:29 16:27:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162706701.jpg",
+    "phash": "9b764177d86d4720",
+    "sha256": "c7b2289fa05d58a6e8cff8a2ac6c939660ecf8dea86bdb35c596f400cad447c5",
+    "timestamp": "2016:10:29 16:27:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162708638.jpg",
+    "phash": "9b764177d86c4730",
+    "sha256": "41317e13ae8f43d5d19271674eb989996cffd2c3db5784fe1eb09cb02a05a370",
+    "timestamp": "2016:10:29 16:27:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162710737.jpg",
+    "phash": "9f364177d8cc4730",
+    "sha256": "c2cd680ce89a6a80a3d09fe4b95f40e1f3973a953c7af0d1d3603af4f3f6ead1",
+    "timestamp": "2016:10:29 16:27:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162810841.jpg",
+    "phash": "eed3dcc98aa50c34",
+    "sha256": "14f206c914bf54daca6269eea8112724560761ba8925c915e4cb7ab9fdbe13a8",
+    "timestamp": "2016:10:29 16:28:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162818047.jpg",
+    "phash": "e7dac78c911a073c",
+    "sha256": "6b37b12428e94d35321aed575d59fffc3674670d39430aecd68e714034e01bf6",
+    "timestamp": "2016:10:29 16:28:18"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161029_162826626.jpg",
+    "phash": "f4b15ac7c8c91476",
+    "sha256": "a8a294dcaf335daee8638b71e7efda1bbbf9c5ad56e8a06a1b952d3bcdcfca6d",
+    "timestamp": "2016:10:29 16:28:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_192908568.jpg",
+    "phash": "c8c86f5f3436cb81",
+    "sha256": "aaeec07ca86dc2082352ede13c558ecf707032616cd1dea039065a99742b76e2",
+    "timestamp": "2016:10:30 19:29:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_192914289.jpg",
+    "phash": "d290c2d72d6c716d",
+    "sha256": "87caf467ec27a73db98d65895f53f9fa1a6877dc2706450eb412ab91c730022d",
+    "timestamp": "2016:10:30 19:29:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_192958733.jpg",
+    "phash": "909cde949c4f9569",
+    "sha256": "c70db4767b551349c9577ee7e94c73f55d940989d24f76d63d78f33d0a2ef8a6",
+    "timestamp": "2016:10:30 19:29:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_194540473.jpg",
+    "phash": "d961069bfc66074d",
+    "sha256": "c1dabf6c743f86dc052965fed631d2b6cd25bb4502f9eb3f4875368ee07d0928",
+    "timestamp": "2016:10:30 19:45:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_194548792.jpg",
+    "phash": "c96336dd2117dc98",
+    "sha256": "2929c50758ed5f0fcf5a199721be12e8c19939d36f0fc214606e693ce886265a",
+    "timestamp": "2016:10:30 19:45:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201102510.jpg",
+    "phash": "dd772389dd770600",
+    "sha256": "adfd64150718ef32e78f28b711a3c7cd2cc8a4f0899d4a39f51a23fcb2d9491b",
+    "timestamp": "2016:10:30 20:11:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201107620.jpg",
+    "phash": "937fee9b1124029b",
+    "sha256": "3308e00a06342e98671282b7394536284ec8f997b1d54adbab170db2980e6aaa",
+    "timestamp": "2016:10:30 20:11:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201115635_BURST000_COVER_TOP.jpg",
+    "phash": "996064d8fbe2465b",
+    "sha256": "d1d47658f9785a982930a1d0d61dae9c10d12468b9b638157d6267efc416fb9e",
+    "timestamp": "2016:10:30 20:11:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201118607.jpg",
+    "phash": "9577f6da99452501",
+    "sha256": "dbdd0af027140328851ff19b7c7ea58cbe90ceb3ffe21a1b2e64fbe316e10a77",
+    "timestamp": "2016:10:30 20:11:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201120990.jpg",
+    "phash": "97777cb8cb452421",
+    "sha256": "09acd8841a446cb4e600641263f3c3358ea1ee5d224cff1a284814fd7323c6bf",
+    "timestamp": "2016:10:30 20:11:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201626882.jpg",
+    "phash": "b44b33ae9b60e8d2",
+    "sha256": "87ada50b97fee59b553424f56a241db00778f60e75a01e6a0c6fc13556f26aa5",
+    "timestamp": "2016:10:30 20:16:27"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_201636441_BURST000_COVER_TOP.jpg",
+    "phash": "a50a727d9760689f",
+    "sha256": "613c5f521148984db6dddadefc6f5d02f3a50c435834decf5492baa1dade3bf3",
+    "timestamp": "2016:10:30 20:16:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202025383.jpg",
+    "phash": "dc2225db0635e6ba",
+    "sha256": "a849df26325600b557280823e1412606c062bf10a57e0cb6c4e396fa0a838f74",
+    "timestamp": "2016:10:30 20:20:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202028954.jpg",
+    "phash": "dc2229db0631e9fc",
+    "sha256": "fd82588b92d5b172cac3494453363ef70c6afafcedbecaeeca7750a5b6f23346",
+    "timestamp": "2016:10:30 20:20:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202032509.jpg",
+    "phash": "dc2229db0631c9fe",
+    "sha256": "e5dec7297037d66404c1a045fb23ea797bae10b509fbf430644f1d4339476b80",
+    "timestamp": "2016:10:30 20:20:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202035698.jpg",
+    "phash": "dc2729db26a1cab4",
+    "sha256": "c2539978ced8b8b4e389fc6bdc116071daf09464253e06075e4b257985786024",
+    "timestamp": "2016:10:30 20:20:36"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202038595.jpg",
+    "phash": "fc0361df0e23cc9c",
+    "sha256": "516a78cdfd2e0ef4abcd7874e0d62f20c020ae491e0b803eeca9c83f9e63b723",
+    "timestamp": "2016:10:30 20:20:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202042262.jpg",
+    "phash": "dc2b29db1621cc9e",
+    "sha256": "0f274e0a88638f5c4c3ce642ce01722823db67c21286dcb219e94faf5ad8a69b",
+    "timestamp": "2016:10:30 20:20:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161030_202201130.jpg",
+    "phash": "c33ec4439c33c93e",
+    "sha256": "5e0f1457aaab4d7d7c8320848a46af75d37819a294aa98240c8ccf2965f2e29f",
+    "timestamp": "2016:10:30 20:22:01"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161112_073152617.jpg",
+    "phash": "c778a5714cacf1c8",
+    "sha256": "0a28511df24162151456dba8f6b9317daa4fae5db8b838ba689a3971cc17abd2",
+    "timestamp": "2016:11:12 07:31:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_143659303.jpg",
+    "phash": "b8ccece7061df032",
+    "sha256": "0088f7a377df0187b45e12aa7784e23358301134f8c8dcb92c634b99a9eb05fd",
+    "timestamp": "2016:11:20 14:37:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_143710071_BURST000_COVER.jpg",
+    "phash": "a8c5cee0630f792b",
+    "sha256": "b8f216dc952ff445c6948e8b40ff5f2182d1b000823009609c45a96c73694cd7",
+    "timestamp": "2016:11:20 14:37:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150038446.jpg",
+    "phash": "803dce1371663ed3",
+    "sha256": "1454ee4374ca830be943d8d35d3ec5b6280e73e296cf9906d0447d6879df227c",
+    "timestamp": "2016:11:20 15:00:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150049255.jpg",
+    "phash": "8339ac463b47ac3e",
+    "sha256": "8d4c49db289bdaedc7b53eb59c4d51b64d088ed2dafb4e360bb8a89c257c0d98",
+    "timestamp": "2016:11:20 15:00:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150102373_BURST000_COVER_TOP.jpg",
+    "phash": "813d6e4335e0bc5b",
+    "sha256": "ed76e097efaaaaf92b778ab92c863ded271966bfe6e20e058e0c1bd62e1c4afb",
+    "timestamp": "2016:11:20 15:01:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150122096_BURST000_COVER_TOP.jpg",
+    "phash": "817dee4331c03e57",
+    "sha256": "c3f79c4f9c7d7bdce4a73d01ad1d9407cbb2552b05cb8de19002af0c033e2095",
+    "timestamp": "2016:11:20 15:01:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150123912.jpg",
+    "phash": "817dee4731c43c5a",
+    "sha256": "a37a728e05f2f9de4d78854331c07ecbdf62a1d1782c9a91289266055ec1b000",
+    "timestamp": "2016:11:20 15:01:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20161120_150203253.jpg",
+    "phash": "b9e8cea631512ee2",
+    "sha256": "da098aed54bddb9a48ec749888abb98af1100a488188c2708a191c7f078e8bea",
+    "timestamp": "2016:11:20 15:02:03"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170113_201438761.jpg",
+    "phash": "d9310ede2399b86a",
+    "sha256": "2eec6e65fa4c164af9fe9907e7f84e2a8c7505c06f7fa19ab5e797f7c8f6e7bc",
+    "timestamp": "2017:01:13 20:14:41"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170126_153657073_BURST000_COVER_TOP.jpg",
+    "phash": "f37b688c8eb2b0a8",
+    "sha256": "25c0f2a7cc78d7cbbb26f92fbee4c47f57cef60d7095211dbaa0906f98532eed",
+    "timestamp": "2017:01:26 15:36:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170126_153658753.jpg",
+    "phash": "f1796f8284bbb288",
+    "sha256": "64a2c74935dcfd0c288512ab79addecea73de4943a32cf8432be1d0b4147e43a",
+    "timestamp": "2017:01:26 15:36:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170126_153715297.jpg",
+    "phash": "f368c88cfca0545f",
+    "sha256": "eeb858f4b4e39512a6285e9bbf7d1c154370ae5a07bc79348d902a5e31b83eed",
+    "timestamp": "2017:01:26 15:37:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202310202.jpg",
+    "phash": "cf4f3230e1811bde",
+    "sha256": "a10cf310223fb0ab1a64241a20f9745ff89641d1897e1f2dbbd64be158a35c11",
+    "timestamp": "2017:02:12 20:23:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202326160.jpg",
+    "phash": "c52f3000c58ffe73",
+    "sha256": "948c15e569f22cc96f2ef33ffc25515b0a2de577c9e06185738bcc603c2ac67b",
+    "timestamp": "2017:02:12 20:23:27"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202555550.jpg",
+    "phash": "97c5849a7865e7c4",
+    "sha256": "802db0ee5616cc0248a4ad173c7f8b79778177cf0863ceae95d1458029032c88",
+    "timestamp": "2017:02:12 20:25:55"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202619264.jpg",
+    "phash": "d1c0ce9b2e9b4a6c",
+    "sha256": "4a64cbbd57c163d9ef37e577504ccbce7c4a1cce223ea402c710bbf18d656a6e",
+    "timestamp": "2017:02:12 20:26:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202659866.jpg",
+    "phash": "d6d6140f3d8d0e39",
+    "sha256": "025484a4545028027e0b1671b3f634fee8ca4131c4ad0ac7f7f2ffd59fddb7b9",
+    "timestamp": "2017:02:12 20:27:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_202707617.jpg",
+    "phash": "d7d4b42d39c0ce38",
+    "sha256": "a5800c8e11b8658a4084a3c7b81359809ac4a7fa24c3554f11c613b814985249",
+    "timestamp": "2017:02:12 20:27:09"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_210656018.jpg",
+    "phash": "994c2d776521b479",
+    "sha256": "e894c884f5884931702894eb0db5b759b02e618fee431bb4340de2338011adb2",
+    "timestamp": "2017:02:12 21:06:56"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170212_210659186.jpg",
+    "phash": "9c47a6f27430bb19",
+    "sha256": "89fa3168d3ad336ca03cf23b579eb4e4d26495fb16549e5368bb3fc254beba6b",
+    "timestamp": "2017:02:12 21:07:00"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170308_210624881.jpg",
+    "phash": "b932330e6e525c2f",
+    "sha256": "7a7dd360ea23747ce300f9cf47d94750146970ae15031574d7fa213a32d9d426",
+    "timestamp": "2017:03:08 21:06:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170308_210703683.jpg",
+    "phash": "f7b10b1a407d7c85",
+    "sha256": "3e145ce1cba582ded98ce21ffa8f75cd4a57584e2a0d60c5d3d87ee8a7cb4d5b",
+    "timestamp": "2017:03:08 21:07:06"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170308_210710082.jpg",
+    "phash": "b3b1015ac46d7ec6",
+    "sha256": "096859075022791763d4cae95f2d817afafd0a8e30f5a58f4516836be397e521",
+    "timestamp": "2017:03:08 21:07:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170308_210743670.jpg",
+    "phash": "b1b19972c6663b25",
+    "sha256": "9aec6d5d97c5d69374f8a6a380b07d74918e7f4f35d100f73cb74efc62e841b8",
+    "timestamp": "2017:03:08 21:07:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105246563_BURST000_COVER_TOP.jpg",
+    "phash": "e9ec96d8c32e618c",
+    "sha256": "60bff6524c8df73f980093c8638c6e0f678d779239032e922532a688ca48d4dc",
+    "timestamp": "2017:03:29 10:52:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105513620.jpg",
+    "phash": "fa874c18934f33cc",
+    "sha256": "0f1088c39a8a804a8f23d23866c6b4c3a6b9a148c4b017b67bc785d509563a9a",
+    "timestamp": "2017:03:29 10:55:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105714266.jpg",
+    "phash": "a1dec3255c12bb69",
+    "sha256": "b784658b3e2e6659822602cec90d378ff550b7be494507ecc5aa387435a6a4ef",
+    "timestamp": "2017:03:29 10:57:16"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105730568.jpg",
+    "phash": "b3dcc3255aaa2d34",
+    "sha256": "9daf8eda7ae4db76f88fe641a0f5b45a8c5a019ac60d529f670f98184c2d50ed",
+    "timestamp": "2017:03:29 10:57:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105736098.jpg",
+    "phash": "a7d8c22553fa2a35",
+    "sha256": "3eb47fe462a5dbe82fc42db9bbcc2dfe613210a18f76b2d7ad3261802be46230",
+    "timestamp": "2017:03:29 10:57:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105823615.jpg",
+    "phash": "b7dec00759f32c30",
+    "sha256": "44a82bf59804877cdbb1db4d9e4cd50148bb5a80bf9155675e851f1f1e3f58e9",
+    "timestamp": "2017:03:29 10:58:24"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105831567_BURST000_COVER_TOP.jpg",
+    "phash": "b3cfc8030ef9a570",
+    "sha256": "4f4dc3bb5219d84099b7d94b21a6b68e931975cf16c2db430394eb9872f6f93d",
+    "timestamp": "2017:03:29 10:58:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105924755.jpg",
+    "phash": "b4cbe1562e63949c",
+    "sha256": "04e700fef71ddf8b316064c7d64d74afe078800d8bb040de7e39d82298b05d8f",
+    "timestamp": "2017:03:29 10:59:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_105929747.jpg",
+    "phash": "a7cbd8c427679988",
+    "sha256": "e77e23ed4df8e339bf349c3ee8bd71bdb472435bd98037489420e56fa8d80f4b",
+    "timestamp": "2017:03:29 10:59:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110035565.jpg",
+    "phash": "acf003979d58b0e7",
+    "sha256": "50f451aa531b082f01a2c57c0d97e66addabdb5c08a5b4249c9fda2a34b3977f",
+    "timestamp": "2017:03:29 11:00:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110042752.jpg",
+    "phash": "eed49d5a55a83506",
+    "sha256": "ff9d9c2052d6007e60b047bce2292c97858b4d9def1b3987709e61df38c13d4b",
+    "timestamp": "2017:03:29 11:00:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110050015.jpg",
+    "phash": "ea81997554cb2a3b",
+    "sha256": "0c328a5cd1923f0d569bdf23af284ab05ba6da926e34bc25cd4fe9421ec922ea",
+    "timestamp": "2017:03:29 11:00:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110105200.jpg",
+    "phash": "ea958ea1e192563b",
+    "sha256": "9bc23c4d59571d258325a9d7b257c5abf5a0f644663bfae7a5ba6519804bb8a4",
+    "timestamp": "2017:03:29 11:01:05"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110134281.jpg",
+    "phash": "fb5783ce8c70182d",
+    "sha256": "6fdcfebbfe466427760e76faa506a91d8f0698a2699b730141dbd5293f9e66dd",
+    "timestamp": "2017:03:29 11:01:35"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110232049.jpg",
+    "phash": "f4b38b4dccb47103",
+    "sha256": "1c9ab97850393f360842a49fdb1cb88abbb033a519b0326c82b80d7a6dc4d716",
+    "timestamp": "2017:03:29 11:02:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110242185.jpg",
+    "phash": "e5969e599863512d",
+    "sha256": "b02b163fffb98c26b108aaa4c14cd60a7753b1b28e111ab60ffae19f38eb4817",
+    "timestamp": "2017:03:29 11:02:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110346256.jpg",
+    "phash": "e9c69d8b99929326",
+    "sha256": "7f6a494b3db4a177a2cbe1415f9de16de447824f0766bb5c112caa6fd32a9808",
+    "timestamp": "2017:03:29 11:03:45"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170329_110354526.jpg",
+    "phash": "b8c3858cdb3b632c",
+    "sha256": "3ddb576a1dbf6162cd3551301371bed1fc42af9238963b555021e1d2598cc9bb",
+    "timestamp": "2017:03:29 11:03:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170330_091119432.jpg",
+    "phash": "acf0a56ed20b4e56",
+    "sha256": "3185d46db6228c946f5737f5a329059c17f8c9577ede27cb6fddedeaa2333307",
+    "timestamp": "2017:03:30 09:11:20"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170330_091155949.jpg",
+    "phash": "e2b5895a5dac9370",
+    "sha256": "71cd742a64b5223c0a8557985e4f507a4d5919f878ee1c542d4c4fad7cd207d4",
+    "timestamp": "2017:03:30 09:11:58"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\IMG_20170415_225505494.jpg",
+    "phash": "d02e3df25ccc1a35",
+    "sha256": "7b764adc4469aeda6525b808a71ea2cd85124790f1b36f2cb82c7e3e174217df",
+    "timestamp": "2017:04:15 22:55:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_029.JPG",
+    "phash": "d6d59094f193e364",
+    "sha256": "23a89212c60942e0178080405bf59ff1db8dd2ff094e3ef913533fa8c36cd20c",
+    "timestamp": "2012:01:01 08:16:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_032.JPG",
+    "phash": "f9c49683e02bec59",
+    "sha256": "ab1a5d880d21d1cfb2c39de78e9df46992648429a724f89b04d3b488a70f60df",
+    "timestamp": "2012:01:01 08:17:56"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_036.JPG",
+    "phash": "9818acb2f24f4d6d",
+    "sha256": "2f112ecdf58c6db5fe17910cab8d4cf196f217c0bd5603d775ea4a4cd6989a09",
+    "timestamp": "2012:01:01 09:11:22"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_037.JPG",
+    "phash": "9226afdb44623b96",
+    "sha256": "1aab602f727153305ca6520461faf2b6f0aae1ac480cad555e1e4b622936ec9c",
+    "timestamp": "2012:01:01 09:11:54"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_038.JPG",
+    "phash": "9930acf9534da4f8",
+    "sha256": "d63fdd2b696c7720f6ed2a4b148dd88ecb6b67ce5556675443e925388358bda5",
+    "timestamp": "2012:01:01 09:19:15"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_039.JPG",
+    "phash": "8038bcbef3570d64",
+    "sha256": "efedd36199941fc7d807304c501386f44e94402d6a52767db07e1168cd41fbd5",
+    "timestamp": "2012:01:01 09:19:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_075.JPG",
+    "phash": "fa03c394c236f2cb",
+    "sha256": "4067c8af58f9eaffff561d13134f762ab1273956052b180d820c4a31d4361d24",
+    "timestamp": "2012:01:01 05:51:28"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_081.JPG",
+    "phash": "fe768ca989a4c1c5",
+    "sha256": "c6b05ec7e3f7d1ca473d64e61ce1057304ab8d737a2e389c1c004736d1a78960",
+    "timestamp": "2012:01:01 05:52:41"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_085.JPG",
+    "phash": "854e72b9c5b38a36",
+    "sha256": "a93c09fb1014c56c7cee73e3e7ff80d3b484f34d6bb34b81be339b38b7d280c8",
+    "timestamp": "2012:01:01 05:53:39"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_088.JPG",
+    "phash": "8b95e2fcec421333",
+    "sha256": "0110a6f73ffccdccbc19a4cd406d828bff0a4b916840ed6bec0b8cfa5d11494b",
+    "timestamp": "2012:01:01 05:54:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_090.JPG",
+    "phash": "f4abab9c9cc69031",
+    "sha256": "3d9b9bd148e2097754c16160acf77d1f35e12705d7eac75906d2b6c14c924067",
+    "timestamp": "2012:01:01 05:54:31"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_100.JPG",
+    "phash": "a58e98999b9f9b80",
+    "sha256": "2ebc98b0eb19363e0889641365c072f7d95ed506358089a4198c32d5813fd60f",
+    "timestamp": "2012:01:01 05:56:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_101.JPG",
+    "phash": "ad269998ec397265",
+    "sha256": "e2014e3e5deeb484b0d671f184f521b4b3e651000893d69c5f0421f22b6105f3",
+    "timestamp": "2012:01:01 05:56:40"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_136.JPG",
+    "phash": "d92c751888a9657f",
+    "sha256": "aa503cc97ab3958673c648153426cf5c216ee5cdbdca0a866e93e8a68090cbf6",
+    "timestamp": "2012:01:01 06:01:43"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_139.JPG",
+    "phash": "88ea92e9d2d5cbc4",
+    "sha256": "b17784c8da911f8136ce13660e2bd0226991a67e1bcde70ebbeeaae22e119a7b",
+    "timestamp": "2012:01:01 06:02:19"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_140.JPG",
+    "phash": "c8fa82abc2d1cbc5",
+    "sha256": "d0aeb1246e9a5a070168e6224b543180493d828b3c7193993a1ce101f6993bc3",
+    "timestamp": "2012:01:01 06:02:23"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_141.JPG",
+    "phash": "c8de93c795d3c421",
+    "sha256": "7197ff124d0dc079042482a56871b8f9f96b90f4d04a7adc2f863133fff100a4",
+    "timestamp": "2012:01:01 06:02:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_148.JPG",
+    "phash": "f595ae586a324f84",
+    "sha256": "0eb63a383dd881d092ca300b3d192232262dfe87acaf06161ad75792fc00f142",
+    "timestamp": "2012:01:01 06:03:45"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_149.JPG",
+    "phash": "ebaca01237d3bca4",
+    "sha256": "93ac25fb74fe3a73de5d9d8177be50e890035914818e702e791490209a22b4a3",
+    "timestamp": "2012:01:01 06:03:49"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_150.JPG",
+    "phash": "c9aca01613a3ecfd",
+    "sha256": "f3352918190b3b7885d380d98baa8d9bc0000cebbc0cbe02033dfb68f569c768",
+    "timestamp": "2012:01:01 06:03:53"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_151.JPG",
+    "phash": "fa0e82313637379c",
+    "sha256": "da76bc455a1a641a8e4262f92fa5996d929700d247d3c0534fd1bb0153d6dc22",
+    "timestamp": "2012:01:01 06:04:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_152.JPG",
+    "phash": "e7a5fa4b8855018f",
+    "sha256": "23caf6f964934ab7251e34dfc67add73c213c154c9c3453d10a914070652426a",
+    "timestamp": "2012:01:01 06:04:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_157.JPG",
+    "phash": "b2b38dce42b13d38",
+    "sha256": "b5d768906f551f63a6d52cd9e54740c14da0c08337883c6ed871509459e2207b",
+    "timestamp": "2012:01:01 06:05:37"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_158.JPG",
+    "phash": "928c7b703c0e0ff5",
+    "sha256": "ec0645672b629a4ffcb0cce5487cae1c222a0e0dfc9fe97fc5a1dab31d2e0d27",
+    "timestamp": "2012:01:01 06:05:45"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_159.JPG",
+    "phash": "94877a70070a77fc",
+    "sha256": "7dd23d825e5ebedee087eb781653113f17374db344bf9e0ae8707d4f148a0904",
+    "timestamp": "2012:01:01 06:05:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_162.JPG",
+    "phash": "8e9ecf91e121e8d2",
+    "sha256": "574e17e8edf8c4fa51a6d052f5d6753cbc425d0eea6cee871391aa121b961027",
+    "timestamp": "2012:01:01 06:06:25"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_186.JPG",
+    "phash": "ae7c332513854d7a",
+    "sha256": "b38449644760e86dfb960d2f1713e06096a895590d0a74ce7d1da37d2dbdbc63",
+    "timestamp": "2012:01:01 06:13:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_187.JPG",
+    "phash": "a87c63277333a54c",
+    "sha256": "9bdd3fc73912ebee9ce87f4fc77f9fa5e6c0552073b98fb6d7754e3fde2e687c",
+    "timestamp": "2012:01:01 06:13:26"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_189.JPG",
+    "phash": "aa7866318e939d66",
+    "sha256": "4351d78b19dbd082b345f6c7761d4430d9a4869713cd0ad9ede24a51efad906b",
+    "timestamp": "2012:01:01 06:13:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_191.JPG",
+    "phash": "aa62f668dd097a0b",
+    "sha256": "5861693d58deccce23e8575800b7b6e6d8fab3ac077e467e0e4bd907b23d94c9",
+    "timestamp": "2012:01:01 06:13:57"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_192.JPG",
+    "phash": "aa62f622fc8d6326",
+    "sha256": "3b5755cb4c2d13033e9a1a4331791bbd94204b9085e3de0ff12a95fdccfb4838",
+    "timestamp": "2012:01:01 06:14:02"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_194.JPG",
+    "phash": "aa62f42adc8d7326",
+    "sha256": "d88841d69fd5cfc01fcd01dee25fb7f791d6d00ac32826b0dfee823a048855b0",
+    "timestamp": "2012:01:01 06:14:10"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_200.JPG",
+    "phash": "f8cd53213372bc31",
+    "sha256": "b985f2eed0d05e64492500702368c9afba65bda29faf5727e18afd347a950eb1",
+    "timestamp": "2012:01:01 06:14:33"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_216.JPG",
+    "phash": "fac89395858ecc36",
+    "sha256": "b50812eb121017c63db58abb310496150462119402ed03b3744b3c2c22f9a879",
+    "timestamp": "2012:01:01 06:16:08"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_217.JPG",
+    "phash": "ceca98978587c636",
+    "sha256": "36470628342c6abe4bae28a5f84999f0b578ed8cf76d2b0db6693ee4a664841a",
+    "timestamp": "2012:01:01 06:16:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_220.JPG",
+    "phash": "b2fea1c0a6717227",
+    "sha256": "7514e83a92c33d4dfaa4d247fb2954954009ce5c50800c9d6c7910484342ed78",
+    "timestamp": "2012:01:01 06:16:46"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_221.JPG",
+    "phash": "85b3c6c0f6d8e871",
+    "sha256": "d341c0d4ba431a64612e33ac1253fe02bc6c67bb5e5dcce1df39326ef2617809",
+    "timestamp": "2012:01:01 06:16:50"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_225.JPG",
+    "phash": "8bf1c6dc9c0e2d25",
+    "sha256": "0ef3311be2ecada49ce9c15d1ad09bc66ffa90428adaa59d0bb2d8c8a61797c0",
+    "timestamp": "2012:01:01 06:17:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_227.JPG",
+    "phash": "93f1b0ae92459b59",
+    "sha256": "3be83f03446728275c1c3ba6e386b76d334770594ff1ef10ca7c21f01c9efa2e",
+    "timestamp": "2012:01:01 06:18:32"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_229.JPG",
+    "phash": "f199964ba0613c7b",
+    "sha256": "ca51cdbc9959dc81962c10f219bf7a4d57fc94fdd8fc148f35540e864ef2d0b2",
+    "timestamp": "2012:01:01 06:19:17"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_230.JPG",
+    "phash": "b0d999b6ad8ec1c1",
+    "sha256": "ba713f7df9ffb38f19ebd4551352fd2780e74db9c115bda5c5eb977b9fb67c64",
+    "timestamp": "2012:01:01 06:19:21"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_231.JPG",
+    "phash": "879b8e05d060fbe9",
+    "sha256": "47cbda0a6da0f72aa8120d734a94249982a38ec0878f228138baf4220a0e09ad",
+    "timestamp": "2012:01:01 06:19:29"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_233.JPG",
+    "phash": "e7859dd88beaa822",
+    "sha256": "63585ff6962966d6d1a295559d646c274e95bbbca17fe2c37714c9dbfc6859f7",
+    "timestamp": "2012:01:01 06:19:42"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_234.JPG",
+    "phash": "a0d094dfcc8dce27",
+    "sha256": "049843b5aa6a371658cb96d887c04692d73de51c8b5b4c84ff43c2b9fe7b8461",
+    "timestamp": "2012:01:01 06:19:47"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_235.JPG",
+    "phash": "9ead8c1fed0a832c",
+    "sha256": "92168d840a43c56e2152d36b8e53ce340729d026cd348ec3fe420f0bcddbddbd",
+    "timestamp": "2012:01:01 06:19:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_237.JPG",
+    "phash": "f0b190c4cfcec1e5",
+    "sha256": "80d2b2fdcf62094980f66b892f921dbe68b9f5425c64bad41aa17c6deb6730e6",
+    "timestamp": "2012:01:01 06:20:07"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_238.JPG",
+    "phash": "f2b198a6cbc7c0e1",
+    "sha256": "04a939234c141cbb43a264fcb571377eb6149693216c4c6c97328b5d9f226a5b",
+    "timestamp": "2012:01:01 06:20:11"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_239.JPG",
+    "phash": "f0b1d4cc4fe62730",
+    "sha256": "1a4f0c33a8c6a53b89ddad7afdaf6adcd39508f45a30ed0e164eebf3914c7a10",
+    "timestamp": "2012:01:01 06:20:30"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_241.JPG",
+    "phash": "f0b0c6cf4f26303e",
+    "sha256": "4fbd298674a4e838e240d1c8d6e751a08d8bd7715afae26d49720c4eb1898fd3",
+    "timestamp": "2012:01:01 06:20:38"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_242.JPG",
+    "phash": "c325f872b470a35e",
+    "sha256": "73046ecb433211426e0100f598cdda0a0a5e50d38c42ad72416fa6433127671c",
+    "timestamp": "2012:01:01 06:20:44"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_244.JPG",
+    "phash": "9386adeaad00a9fc",
+    "sha256": "bd06ac7ed899ff012e7312dce07b70d44fad0ad3719a1b99dd9d2dd9caa38cca",
+    "timestamp": "2012:01:01 06:21:14"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_248.JPG",
+    "phash": "facbce1d93469241",
+    "sha256": "a8338f60d9e3839b3f7c40431ba17752fbad8e707ea16d7f62010d46cbf2934c",
+    "timestamp": "2012:01:01 06:21:51"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_249.JPG",
+    "phash": "a0b073b21ccf4ced",
+    "sha256": "93cc3d36b9aaf3a5330be080bb24c0296492273e570db49e76945862019e8a5b",
+    "timestamp": "2012:01:01 06:21:59"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_250.JPG",
+    "phash": "b1b0528ec9cd671e",
+    "sha256": "67b00ee57404938980fa2da39389f4c4b424626aef68e275ce8ec308bd1ec224",
+    "timestamp": "2012:01:01 06:22:01"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_264.JPG",
+    "phash": "c881cd7ab9c430fe",
+    "sha256": "be0ee4e2e061a0bd939493e5b1bb85ad60b94fef1abdfd366654f5493cad516c",
+    "timestamp": "2012:01:01 06:23:52"
+  },
+  {
+    "path": "D:\\Dev\\sample_pics\\Ninamma\\Ninamma\\tikkireddi_gp_266.JPG",
+    "phash": "9fb381d8d06c2537",
+    "sha256": "0ce58a27e37000b11a114e8cead98ab18f577f52393b45d742713191cff71201",
+    "timestamp": "2012:01:01 06:23:59"
+  }
+]

@@ -9,3 +9,8 @@ chromadb
 streamlit
 gradio
 crewai
+# Event/Milestone extraction
+torch
+torchvision
+torchaudio
+git+https://github.com/openai/CLIP.git

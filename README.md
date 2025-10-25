@@ -32,3 +32,21 @@ Code
 
 1. create .env file
 2. Add the API Keys
+
+
+### Flow
+
+#### Module 1: Photo Ingestion (ingest/photo_ingest.py)
+#### Module 2: Vision Analysis (vision/photo_vision.py)
+##### A. Face Detection & Embedding Extraction
+We’ll use InsightFace or Dlib for face detection and feature vector extraction.
+##### B. Event/Milestone Extraction
+For event grouping, use CLIP or similar model to generate captions or tags per photo.
+#### Step 4: Metadata Database Module
+We'll store all the extracted metadata (photo_meta.json, face_meta.json, event_tags.json) in a local database to make querying, grouping, and integration easier for agents.
+#### Step 5: Agent Orchestration (Ollama + CrewAI)
+Goal: Connect your local database with intelligent agents capable of reasoning (using Ollama and CrewAI).
+
+agents/agent_orchestration.py: Use CrewAI to define agent roles, workflows, and interactions.
+#### Step 5: Agent Orchestration, where you’ll connect Ollama with CrewAI to create intelligent agents that analyze your database
+

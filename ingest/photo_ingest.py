@@ -3,6 +3,7 @@ import imagehash
 from PIL import Image
 import exifread
 import hashlib
+import json
 
 def scan_images(folder):
     photos = []
@@ -30,4 +31,8 @@ if __name__ == "__main__":
     folder = input("Enter the photo folder: ")
     photo_meta = scan_images(folder)
     print(f"Found {len(photo_meta)} photos.")
-    # Next: Persist these metadata to a local DB for processing
+    # Save output
+    with open("photo_meta.json", "w") as f:
+        json.dump(photo_meta, f, indent=2)
+    print("Saved metadata to photo_meta.json")
+
